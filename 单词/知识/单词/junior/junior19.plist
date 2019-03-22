@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>n 女售货员</string>
+		<key>question</key>
+		<string>salesgirl</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp; adv 远的(地)</string>
+		<key>question</key>
+		<string>far</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 美丽的,漂亮的</string>
+		<key>question</key>
+		<string>beautiful</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 一起</string>
+		<key>question</key>
+		<string>together</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 秋天,秋季</string>
+		<key>question</key>
+		<string>autumn</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; adj 节日(的),喜庆(的)</string>
+		<key>question</key>
+		<string>festival</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num &amp;adj 第九(的)</string>
+		<key>question</key>
+		<string>ninth</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 自由的,空闲的</string>
+		<key>question</key>
+		<string>free</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 中秋 </string>
+		<key>question</key>
+		<string>mid-autumn</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 月饼 </string>
+		<key>question</key>
+		<string>mooncake</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 坚果,坚果核</string>
+		<key>question</key>
+		<string>nut</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 甜的,可爱的</string>
+		<key>question</key>
+		<string>sweet</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 在...里面</string>
+		<key>question</key>
+		<string>inside</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (美)商店,大百货公司</string>
+		<key>question</key>
+		<string>store</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 过来,顺便来访</string>
+		<key>question</key>
+		<string>come over </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 感谢,感恩</string>
+		<key>question</key>
+		<string>thanksgiving</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 感恩节</string>
+		<key>question</key>
+		<string>Thanksgiving=Thanksgiving Day </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 相聚</string>
+		<key>question</key>
+		<string>get together </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n. 十月</string>
+		<key>question</key>
+		<string>October</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 品尝,有...味道</string>
+		<key>question</key>
+		<string>taste</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (用肉或水果做成的)馅饼</string>
+		<key>question</key>
+		<string>pie</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep &amp; adv 在...外</string>
+		<key>question</key>
+		<string>outside</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr.在户外,在野外</string>
+		<key>question</key>
+		<string>in the open air </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 收获</string>
+		<key>question</key>
+		<string>harvest</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>conj 比....,比较....</string>
+		<key>question</key>
+		<string>than</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj&amp;conj另一个(的),又一个(的)</string>
+		<key>question</key>
+		<string>another</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 美味的,可口的</string>
+		<key>question</key>
+		<string>delicious</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj(goo或well的比较级)更好的</string>
+		<key>question</key>
+		<string>better</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 南瓜</string>
+		<key>question</key>
+		<string>pumpkin</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num &amp;adj 第十二(的)</string>
+		<key>question</key>
+		<string>twelfth</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 火鸡</string>
+		<key>question</key>
+		<string>turkey</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 庆祝</string>
+		<key>question</key>
+		<string>celebrate</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 等,等待</string>
+		<key>question</key>
+		<string>wait</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 喂,饲养</string>
+		<key>question</key>
+		<string>feed</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 母牛,乳牛</string>
+		<key>question</key>
+		<string>cow</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj有趣的,有意思的</string>
+		<key>question</key>
+		<string>interesting</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 拖拉机</string>
+		<key>question</key>
+		<string>tractor</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 出租汽车</string>
+		<key>question</key>
+		<string>taxi</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 慢的,缓慢的</string>
+		<key>question</key>
+		<string>slow</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 缓慢地</string>
+		<key>question</key>
+		<string>slowly</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 种植,生长</string>
+		<key>question</key>
+		<string>grow</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 小麦</string>
+		<key>question</key>
+		<string>wheat</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 乡村,郊外</string>
+		<key>question</key>
+		<string>country</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 听见,听说</string>
+		<key>question</key>
+		<string>hear</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v &amp;n 羊叫(声)</string>
+		<key>question</key>
+		<string>bleat</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr.同意...意见(想法)符合,一致 </string>
+		<key>question</key>
+		<string>agree with </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (美)玉米,谷类庄稼</string>
+		<key>question</key>
+		<string>corn</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj&amp;adv(many或much的最高级)最多的</string>
+		<key>question</key>
+		<string>most</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 夏天,夏季</string>
+		<key>question</key>
+		<string>summer</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 冬天,冬季</string>
+		<key>question</key>
+		<string>winter</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

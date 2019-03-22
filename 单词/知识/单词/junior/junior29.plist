@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>n 岛,岛状物</string>
+		<key>question</key>
+		<string>island</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj&amp;adv (far的比较级)较远,更远</string>
+		<key>question</key>
+		<string>farther</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string> adj&amp;adv(far的最高级)最远</string>
+		<key>question</key>
+		<string>farthest</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 某处,在某处</string>
+		<key>question</key>
+		<string>somewhere</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 登陆,上岸,降落</string>
+		<key>question</key>
+		<string>land</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 拉,拖,拔</string>
+		<key>question</key>
+		<string>pull</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 从..向外,从..往外</string>
+		<key>question</key>
+		<string>out of</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 凉快的</string>
+		<key>question</key>
+		<string>cool</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 任何人</string>
+		<key>question</key>
+		<string>anybody</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 我们自己</string>
+		<key>question</key>
+		<string>ourselves</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 独立,单独</string>
+		<key>question</key>
+		<string>all by oneself </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 也许,可能</string>
+		<key>question</key>
+		<string>perhaps</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 高兴地,快乐地</string>
+		<key>question</key>
+		<string>happily</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 许许多多的</string>
+		<key>question</key>
+		<string>lots of </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 不再</string>
+		<key>question</key>
+		<string>no longer </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 丢失的,失踪的</string>
+		<key>question</key>
+		<string>missing</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 哭,叫喊</string>
+		<key>question</key>
+		<string>cry</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 回来,取回</string>
+		<key>question</key>
+		<string>get back  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 太...而不能 </string>
+		<key>question</key>
+		<string>too...to </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 任何地方</string>
+		<key>question</key>
+		<string>anywhere</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 解决,解答</string>
+		<key>question</key>
+		<string>solve</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 相信,认为</string>
+		<key>question</key>
+		<string>believe</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 每人,人人</string>
+		<key>question</key>
+		<string>everybody</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 迟早</string>
+		<key>question</key>
+		<string>sooner or later </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v 滴,水滴 掉下,落下</string>
+		<key>question</key>
+		<string>drop</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 逃跑</string>
+		<key>question</key>
+		<string>run away </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>conj 因为,由于</string>
+		<key>question</key>
+		<string>as</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 吃完,吃光</string>
+		<key>question</key>
+		<string>eat up </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (海,河,湖的)岸,堤</string>
+		<key>question</key>
+		<string>bank</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 圈子,圆</string>
+		<key>question</key>
+		<string>circle</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv (用于否定句)还(没)</string>
+		<key>question</key>
+		<string>yet</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 我自己</string>
+		<key>question</key>
+		<string>myself</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 堂(表)兄弟,堂(表)姐妹</string>
+		<key>question</key>
+		<string>cousin</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 工程师</string>
+		<key>question</key>
+		<string>engineer</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 癌症</string>
+		<key>question</key>
+		<string>cancer</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 小心,照料,保护</string>
+		<key>question</key>
+		<string>care</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 照顾,照料,注意</string>
+		<key>question</key>
+		<string>take care of </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 难过的,悲哀的</string>
+		<key>question</key>
+		<string>sad</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 死,死亡</string>
+		<key>question</key>
+		<string>death</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (书的)页</string>
+		<key>question</key>
+		<string>page</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 宫,宫殿</string>
+		<key>question</key>
+		<string>palace</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 颐和园</string>
+		<key>question</key>
+		<string>the Summer Palace</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 她自己</string>
+		<key>question</key>
+		<string>herself</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr.打开(电灯,收音机,煤气,自来水) </string>
+		<key>question</key>
+		<string>turn on</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 一会儿</string>
+		<key>question</key>
+		<string>while</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 过了一会儿</string>
+		<key>question</key>
+		<string>after a while </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr.关(电灯,收音机,煤气,自来水等)</string>
+		<key>question</key>
+		<string>turn off </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 再,更</string>
+		<key>question</key>
+		<string>any more </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 做鬼脸,做苦脸</string>
+		<key>question</key>
+		<string>make faces </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 全部的</string>
+		<key>question</key>
+		<string>whole</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

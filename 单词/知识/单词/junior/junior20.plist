@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>v 停止,中止</string>
+		<key>question</key>
+		<string>stop</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 采摘(花,果实)</string>
+		<key>question</key>
+		<string>pick</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 令人兴奋的</string>
+		<key>question</key>
+		<string>exciting</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 城镇</string>
+		<key>question</key>
+		<string>town</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 星星,恒星</string>
+		<key>question</key>
+		<string>star</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep&amp;pron 到...为止</string>
+		<key>question</key>
+		<string>until</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep&amp;pron (直)到...为止</string>
+		<key>question</key>
+		<string>till</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 学院,高等专科学校</string>
+		<key>question</key>
+		<string>college</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 农业,务农</string>
+		<key>question</key>
+		<string>farming</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 某人,有人</string>
+		<key>question</key>
+		<string>somebody</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 没有人</string>
+		<key>question</key>
+		<string>nobody</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v (我,我们)将,会</string>
+		<key>question</key>
+		<string>shall</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 动物园</string>
+		<key>question</key>
+		<string>zoo</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron没有什么,没有东西 </string>
+		<key>question</key>
+		<string>nothing</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 海豚</string>
+		<key>question</key>
+		<string>dolphin</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n&amp;v演出,展览 给...看,出示</string>
+		<key>question</key>
+		<string>show</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 大门</string>
+		<key>question</key>
+		<string>gate</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 陆地,土地</string>
+		<key>question</key>
+		<string>land</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 仅仅,只有</string>
+		<key>question</key>
+		<string>just</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 草,草地</string>
+		<key>question</key>
+		<string>grass</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 危险的</string>
+		<key>question</key>
+		<string>dangerous</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 熊猫</string>
+		<key>question</key>
+		<string>panda</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 狮子</string>
+		<key>question</key>
+		<string>lion</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 象</string>
+		<key>question</key>
+		<string>elephant</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 猴子</string>
+		<key>question</key>
+		<string>monkey</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 老虎</string>
+		<key>question</key>
+		<string>tiger</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>(pl.deer)n 鹿</string>
+		<key>question</key>
+		<string>deer</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 蛇</string>
+		<key>question</key>
+		<string>snake</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 兔子</string>
+		<key>question</key>
+		<string>rabbit</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 鸭</string>
+		<key>question</key>
+		<string>duck</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 狐狸</string>
+		<key>question</key>
+		<string>fox</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 马</string>
+		<key>question</key>
+		<string>horse</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 熊</string>
+		<key>question</key>
+		<string>bear</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 笼(子),鸟笼</string>
+		<key>question</key>
+		<string>cage</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v.aux (shall的过去式)将,会,应该 </string>
+		<key>question</key>
+		<string>should</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 森林</string>
+		<key>question</key>
+		<string>forest</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 觉得,感到</string>
+		<key>question</key>
+		<string>feel</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>conj 假如,如果</string>
+		<key>question</key>
+		<string>if</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 落下,跌倒</string>
+		<key>question</key>
+		<string>fall</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 爬,攀登</string>
+		<key>question</key>
+		<string>climb</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 完成,结束</string>
+		<key>question</key>
+		<string>finish</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 电影院,电影</string>
+		<key>question</key>
+		<string>cinema</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 海鲜,海产食品</string>
+		<key>question</key>
+		<string>seafood</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num 第十二</string>
+		<key>question</key>
+		<string>twentieth</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 婴儿,幼畜</string>
+		<key>question</key>
+		<string>baby</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 背部,后面</string>
+		<key>question</key>
+		<string>back</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 地点,地方</string>
+		<key>question</key>
+		<string>place</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num 第二十一 </string>
+		<key>question</key>
+		<string>twenty-first</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 银行</string>
+		<key>question</key>
+		<string>bank</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n剧场,戏院</string>
+		<key>question</key>
+		<string>theatre(theater)</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

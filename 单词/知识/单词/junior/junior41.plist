@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>n 袖珍无线电传呼机,电话呼叫机</string>
+		<key>question</key>
+		<string>beeper</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv （今后）有一天</string>
+		<key>question</key>
+		<string>someday</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 打印机</string>
+		<key>question</key>
+		<string>printer</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 打印</string>
+		<key>question</key>
+		<string>print</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 公文，文件</string>
+		<key>question</key>
+		<string>document</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 连接，相连，联系</string>
+		<key>question</key>
+		<string>connect</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 调制解调器</string>
+		<key>question</key>
+		<string>modem</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 提供</string>
+		<key>question</key>
+		<string>provide</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 显示器</string>
+		<key>question</key>
+		<string>monitor</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 指示，指向</string>
+		<key>question</key>
+		<string>point at </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 宇宙</string>
+		<key>question</key>
+		<string>universe</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 人造的，人工的</string>
+		<key>question</key>
+		<string>man-made</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 卫星</string>
+		<key>question</key>
+		<string>satellite</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 空间，太空</string>
+		<key>question</key>
+		<string>space</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 宇宙飞船</string>
+		<key>question</key>
+		<string>spaceship</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 送，寄，派（遣）</string>
+		<key>question</key>
+		<string>send</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 发射，把…往上送</string>
+		<key>question</key>
+		<string>send up </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 接受，收到，得到</string>
+		<key>question</key>
+		<string>receive</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 关（门等）</string>
+		<key>question</key>
+		<string>shut</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 把…关上</string>
+		<key>question</key>
+		<string>shut down</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 羊毛的，毛织的</string>
+		<key>question</key>
+		<string>woolen</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 不可能的</string>
+		<key>question</key>
+		<string>impossible</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v 思想，想法；关心，介意</string>
+		<key>question</key>
+		<string>mind</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 一心想做…</string>
+		<key>question</key>
+		<string>set one's mind to do </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 推迟，拖延</string>
+		<key>question</key>
+		<string>put off </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 虫，蠕虫</string>
+		<key>question</key>
+		<string>worm</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 活动</string>
+		<key>question</key>
+		<string>activity</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 增加，增长</string>
+		<key>question</key>
+		<string>increase</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>conj 是否</string>
+		<key>question</key>
+		<string>if</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 一小时又一小时,连续地</string>
+		<key>question</key>
+		<string>hour after hour </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v （将…）乘…</string>
+		<key>question</key>
+		<string>multiply</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. …乘以… </string>
+		<key>question</key>
+		<string>multiply…by… </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 挑战</string>
+		<key>question</key>
+		<string>challenge</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 开始，开端</string>
+		<key>question</key>
+		<string>beginning</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. …起初，开始</string>
+		<key>question</key>
+		<string>at the beginning of </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 平方，（方形的）广场</string>
+		<key>question</key>
+		<string>square</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 几乎不</string>
+		<key>question</key>
+		<string>hardly</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 越来越…</string>
+		<key>question</key>
+		<string>more and more </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 宁愿（选择），更喜欢</string>
+		<key>question</key>
+		<string>prefer</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 宁愿（选择），更喜欢</string>
+		<key>question</key>
+		<string>prefer to </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr.宁可,是..而不是 </string>
+		<key>question</key>
+		<string>rather than </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 用过的，半旧的</string>
+		<key>question</key>
+		<string>used</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 恳求，乞求</string>
+		<key>question</key>
+		<string>beg</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 请原谅，对不起</string>
+		<key>question</key>
+		<string>beg one's pardon </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 值得..的，有..的价值</string>
+		<key>question</key>
+		<string>worth</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 二手的，用过的</string>
+		<key>question</key>
+		<string>secondhand</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 图表</string>
+		<key>question</key>
+		<string>diagram</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 讨论</string>
+		<key>question</key>
+		<string>discussion</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 忙于做…</string>
+		<key>question</key>
+		<string>be busy doing </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 图表</string>
+		<key>question</key>
+		<string>chart</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

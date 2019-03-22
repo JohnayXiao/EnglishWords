@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>n 谜语</string>
+		<key>question</key>
+		<string>riddle</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 在……某方面干得好</string>
+		<key>question</key>
+		<string>do well in </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 附近</string>
+		<key>question</key>
+		<string>nearby</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n （英)中小学校长</string>
+		<key>question</key>
+		<string>headmaster</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n …山；…峰</string>
+		<key>question</key>
+		<string>mount</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 尽可能早地；尽快</string>
+		<key>question</key>
+		<string>as soon as possible </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 除…之外</string>
+		<key>question</key>
+		<string>except</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 省</string>
+		<key>question</key>
+		<string>province</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 愉快的；有趣的</string>
+		<key>question</key>
+		<string>enjoyable</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 冲；奔跑</string>
+		<key>question</key>
+		<string>rush</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 轨道；铁路</string>
+		<key>question</key>
+		<string>rail</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n （英）铁路</string>
+		<key>question</key>
+		<string>railway</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 热闹的；有生气的</string>
+		<key>question</key>
+		<string>lively</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 各种各样的</string>
+		<key>question</key>
+		<string>all kinds of </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 舒适的；舒服的</string>
+		<key>question</key>
+		<string>comfortable</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 一直做某事</string>
+		<key>question</key>
+		<string>keep doing something </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 风景；景色</string>
+		<key>question</key>
+		<string>scenery</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v &amp;n 拿出；提供</string>
+		<key>question</key>
+		<string>offer</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 杂志</string>
+		<key>question</key>
+		<string>magazine</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 实践；练习</string>
+		<key>question</key>
+		<string>practise</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj. 活动的；移动的；动的人</string>
+		<key>question</key>
+		<string>moving</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v 咔哒声;发出咔哒声</string>
+		<key>question</key>
+		<string>click</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 遗憾的事，可惜的事</string>
+		<key>question</key>
+		<string>pity</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v （比赛）得分</string>
+		<key>question</key>
+		<string>score</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 自己的</string>
+		<key>question</key>
+		<string>own</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 最小的；最少的</string>
+		<key>question</key>
+		<string>least</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n （口语）小伙子</string>
+		<key>question</key>
+		<string>kid</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 水肺（潜水者用的水下呼吸器）</string>
+		<key>question</key>
+		<string>scuba</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 因特网，互联网络</string>
+		<key>question</key>
+		<string>Internet</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 搜查，搜索</string>
+		<key>question</key>
+		<string>search</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp; v 双重的，双倍的</string>
+		<key>question</key>
+		<string>double</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 图象符号，图标</string>
+		<key>question</key>
+		<string>icon</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v (用打字机或电脑)打字</string>
+		<key>question</key>
+		<string>type</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 按，压</string>
+		<key>question</key>
+		<string>press</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 进入</string>
+		<key>question</key>
+		<string>enter</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 按钮，纽扣</string>
+		<key>question</key>
+		<string>button</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 首都</string>
+		<key>question</key>
+		<string>capital</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 人口，人数</string>
+		<key>question</key>
+		<string>population</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 山脉</string>
+		<key>question</key>
+		<string>ridge</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 坟墓</string>
+		<key>question</key>
+		<string>tomb</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>conj 是否</string>
+		<key>question</key>
+		<string>whether</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 边，边缘</string>
+		<key>question</key>
+		<string>edge</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 边，缘</string>
+		<key>question</key>
+		<string>rim</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj （俚语）了不起</string>
+		<key>question</key>
+		<string>cool</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 价钱为，花费（金钱、时间等）</string>
+		<key>question</key>
+		<string>cost</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 单程的，单行的</string>
+		<key>question</key>
+		<string>one-way</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 航班，飞行</string>
+		<key>question</key>
+		<string>flight</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 预定（戏票、车票等）</string>
+		<key>question</key>
+		<string>book</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj(车票等)来回的,往返的</string>
+		<key>question</key>
+		<string>round-trip</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 说明，须知</string>
+		<key>question</key>
+		<string>instruction</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

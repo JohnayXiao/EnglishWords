@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>phr. 一片(一张、块)</string>
+		<key>question</key>
+		<string>a piece of </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 汉堡包</string>
+		<key>question</key>
+		<string>hamburger</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 面条</string>
+		<key>question</key>
+		<string>noodle</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n pl.potatoes 马铃薯;土豆</string>
+		<key>question</key>
+		<string>potato</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (口语)炸士豆儿条</string>
+		<key>question</key>
+		<string>chips</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (口语)可口可乐</string>
+		<key>question</key>
+		<string>coke</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 咖啡</string>
+		<key>question</key>
+		<string>coffee</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 夫人;女士</string>
+		<key>question</key>
+		<string>madam</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 亲爱的;可爱的</string>
+		<key>question</key>
+		<string>dear</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 冰</string>
+		<key>question</key>
+		<string>ice</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 奶油;乳脂</string>
+		<key>question</key>
+		<string>cream</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 冰淇淋</string>
+		<key>question</key>
+		<string>ice cream</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 美国 </string>
+		<key>question</key>
+		<string>USA</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 不同的</string>
+		<key>question</key>
+		<string>different</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 蔬菜</string>
+		<key>question</key>
+		<string>vegetable</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 有时</string>
+		<key>question</key>
+		<string>sometimes</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 运动</string>
+		<key>question</key>
+		<string>sport</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 来;过来</string>
+		<key>question</key>
+		<string>come on </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>int (突然感到病痛时发出的声音)啊呀</string>
+		<key>question</key>
+		<string>ouch</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 在...方面(学得,做得)好; 善于</string>
+		<key>question</key>
+		<string>be good at </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 蓝球</string>
+		<key>question</key>
+		<string>basketball</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 容易的</string>
+		<key>question</key>
+		<string>easy</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 传递</string>
+		<key>question</key>
+		<string>pass</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 试(做);设法;努力</string>
+		<key>question</key>
+		<string>try</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 溜溜球 (一种玩具)</string>
+		<key>question</key>
+		<string>yo-yo</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 尝试(做某事)</string>
+		<key>question</key>
+		<string>go</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 投,掷</string>
+		<key>question</key>
+		<string>throw</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 困难的</string>
+		<key>question</key>
+		<string>hard</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 骑(自行车,马等)</string>
+		<key>question</key>
+		<string>ride</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 游泳</string>
+		<key>question</key>
+		<string>swim</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 滑冰,溜冰</string>
+		<key>question</key>
+		<string>skate</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 放(风筝,飞机模型等)</string>
+		<key>question</key>
+		<string>fly</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 纸牌,卡片</string>
+		<key>question</key>
+		<string>card</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 排球</string>
+		<key>question</key>
+		<string>volleyball</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 跳</string>
+		<key>question</key>
+		<string>jump</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 唱,唱歌</string>
+		<key>question</key>
+		<string>sing</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 跑</string>
+		<key>question</key>
+		<string>run</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp; adv 高的(地)</string>
+		<key>question</key>
+		<string>high</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 那么,然后</string>
+		<key>question</key>
+		<string>then</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 问题</string>
+		<key>question</key>
+		<string>question</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 邮政的</string>
+		<key>question</key>
+		<string>postal</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 密码,符号</string>
+		<key>question</key>
+		<string>code</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 滑雪</string>
+		<key>question</key>
+		<string>ski</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 网球(运动)</string>
+		<key>question</key>
+		<string>tennis</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 乒乓球</string>
+		<key>question</key>
+		<string>table tennis</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 滑旱冰</string>
+		<key>question</key>
+		<string>roller-skating</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 国际象棋</string>
+		<key>question</key>
+		<string>chess</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (口语，电影,运动等的)迷</string>
+		<key>question</key>
+		<string>fan</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 比赛者,选手</string>
+		<key>question</key>
+		<string>player</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 队,组</string>
+		<key>question</key>
+		<string>team</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

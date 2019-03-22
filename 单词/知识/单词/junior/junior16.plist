@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>phr. (去)买东西</string>
+		<key>question</key>
+		<string>go shopping </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 花(果,菜)园</string>
+		<key>question</key>
+		<string>garden</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v (am,is,are)是,成为</string>
+		<key>question</key>
+		<string>be</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 结束,完了</string>
+		<key>question</key>
+		<string>over</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 朗读,阅读</string>
+		<key>question</key>
+		<string>do (some) reading </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 起居室 </string>
+		<key>question</key>
+		<string>living-room</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n(学校的)操场</string>
+		<key>question</key>
+		<string>playground</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 走,步行,散步</string>
+		<key>question</key>
+		<string>walk</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 新闻,消息</string>
+		<key>question</key>
+		<string>news</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 比赛,竞赛</string>
+		<key>question</key>
+		<string>match</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 迅速</string>
+		<key>question</key>
+		<string>quickly</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 太阳</string>
+		<key>question</key>
+		<string>sun</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 月亮</string>
+		<key>question</key>
+		<string>moon</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 桥</string>
+		<key>question</key>
+		<string>bridge</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 火车</string>
+		<key>question</key>
+		<string>train</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 船,轮船</string>
+		<key>question</key>
+		<string>ship</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 走路,步行</string>
+		<key>question</key>
+		<string>on foot </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 假日,假期</string>
+		<key>question</key>
+		<string>holiday</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 年</string>
+		<key>question</key>
+		<string>year</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 乘车(船等)</string>
+		<key>question</key>
+		<string>by</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 乘飞机</string>
+		<key>question</key>
+		<string>by plane </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 乘船</string>
+		<key>question</key>
+		<string>by ship </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 天空,空气</string>
+		<key>question</key>
+		<string>air</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 乘飞机</string>
+		<key>question</key>
+		<string>by air </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 海,海洋</string>
+		<key>question</key>
+		<string>sea</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 乘船</string>
+		<key>question</key>
+		<string>by sea </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 花费(时间)</string>
+		<key>question</key>
+		<string>take time </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 多久</string>
+		<key>question</key>
+		<string>how long </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 走,步行,散步</string>
+		<key>question</key>
+		<string>walk</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 干净的,清洁的</string>
+		<key>question</key>
+		<string>clean</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 故事</string>
+		<key>question</key>
+		<string>story</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp; adv 远</string>
+		<key>question</key>
+		<string>far</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 问题,难题</string>
+		<key>question</key>
+		<string>problem</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp; adv ( early的比较级)更早的(地)</string>
+		<key>question</key>
+		<string>earlier</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 病的,不健康的</string>
+		<key>question</key>
+		<string>ill</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (常用复数)眼泪,泪珠</string>
+		<key>question</key>
+		<string>tear</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 鸡,鸡肉</string>
+		<key>question</key>
+		<string>chicken</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 豆腐</string>
+		<key>question</key>
+		<string>tofu</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 电冰箱</string>
+		<key>question</key>
+		<string>fridge</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 清单,一览表,名单,目录</string>
+		<key>question</key>
+		<string>list</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 购物清单</string>
+		<key>question</key>
+		<string>shopping list </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 买</string>
+		<key>question</key>
+		<string>buy</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 千克,公斤</string>
+		<key>question</key>
+		<string>kilo</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 卖,售</string>
+		<key>question</key>
+		<string>sell</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 多少,多少钱</string>
+		<key>question</key>
+		<string>how much </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 便宜的</string>
+		<key>question</key>
+		<string>cheap</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 昂贵的</string>
+		<key>question</key>
+		<string>expensive</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 西红柿,蕃茄</string>
+		<key>question</key>
+		<string>tomato</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 洋葱</string>
+		<key>question</key>
+		<string>onion</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 胡萝卜</string>
+		<key>question</key>
+		<string>carrot</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

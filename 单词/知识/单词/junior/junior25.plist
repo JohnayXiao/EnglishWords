@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>n 盘子,碟子</string>
+		<key>question</key>
+		<string>plate</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 蜡烛</string>
+		<key>question</key>
+		<string>candle</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 门铃</string>
+		<key>question</key>
+		<string>doorbell</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 礼物</string>
+		<key>question</key>
+		<string>present</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v 微笑</string>
+		<key>question</key>
+		<string>smile</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 电话,电话机</string>
+		<key>question</key>
+		<string>telephone(phone )</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; adj两倍(的),双倍(的)</string>
+		<key>question</key>
+		<string>double</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 除了</string>
+		<key>question</key>
+		<string>but</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 取出</string>
+		<key>question</key>
+		<string>take out </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 和...相同</string>
+		<key>question</key>
+		<string>the same as </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 词,单词</string>
+		<key>question</key>
+		<string>word</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 呼喊,喊叫</string>
+		<key>question</key>
+		<string>shout</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 把...翻过来</string>
+		<key>question</key>
+		<string>turn over  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 书房</string>
+		<key>question</key>
+		<string>study</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj&amp;adv ( little的比较级)较少的,较小的</string>
+		<key>question</key>
+		<string>less</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 不到,少于</string>
+		<key>question</key>
+		<string>less than </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 迟到</string>
+		<key>question</key>
+		<string>be late for </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 牛肉</string>
+		<key>question</key>
+		<string>beef</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 自取,随便吃</string>
+		<key>question</key>
+		<string>help yourself to </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 圣诞节</string>
+		<key>question</key>
+		<string>Christmas</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 在...的期间</string>
+		<key>question</key>
+		<string>during</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 春节</string>
+		<key>question</key>
+		<string>Spring Festival</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (口语)考试</string>
+		<key>question</key>
+		<string>exam</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 聚会</string>
+		<key>question</key>
+		<string>get-together</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. (戏剧等)上演,放(唱片等)</string>
+		<key>question</key>
+		<string>put on </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 剧,戏剧</string>
+		<key>question</key>
+		<string>play</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 降雨,骤雨</string>
+		<key>question</key>
+		<string>shower</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 降雨的,多阵雨的</string>
+		<key>question</key>
+		<string>showery</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 魔法(似)的</string>
+		<key>question</key>
+		<string>magical</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 罗马(意大利首都)</string>
+		<key>question</key>
+		<string>Rome</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 柏林</string>
+		<key>question</key>
+		<string>Berlin</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 莫斯科</string>
+		<key>question</key>
+		<string>Moscow</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 厨房</string>
+		<key>question</key>
+		<string>kitchen</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 碗橱,小橱(柜)</string>
+		<key>question</key>
+		<string>cupboard</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 少数的,不多的</string>
+		<key>question</key>
+		<string>few</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 一些,几个</string>
+		<key>question</key>
+		<string>a few </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 盐</string>
+		<key>question</key>
+		<string>salt</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 糖</string>
+		<key>question</key>
+		<string>sugar</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 胡椒</string>
+		<key>question</key>
+		<string>pepper</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 油</string>
+		<key>question</key>
+		<string>oil</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 酒</string>
+		<key>question</key>
+		<string>wine</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 啤酒</string>
+		<key>question</key>
+		<string>beer</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 叉,餐叉</string>
+		<key>question</key>
+		<string>fork</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 匙,调羹</string>
+		<key>question</key>
+		<string>spoon</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (常用复数)筷子</string>
+		<key>question</key>
+		<string>chopsticks</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 卷心菜,洋白菜</string>
+		<key>question</key>
+		<string>cabbage</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 豌豆</string>
+		<key>question</key>
+		<string>pea</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 黄油</string>
+		<key>question</key>
+		<string>butter</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 乳酪</string>
+		<key>question</key>
+		<string>cheese</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 汤</string>
+		<key>question</key>
+		<string>soup</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

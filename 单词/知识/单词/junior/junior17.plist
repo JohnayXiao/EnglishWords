@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>n 猪肉</string>
+		<key>question</key>
+		<string>pork</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 一整天,一天到晚</string>
+		<key>question</key>
+		<string>all day </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 许多,很多</string>
+		<key>question</key>
+		<string>a lot of </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 开着的</string>
+		<key>question</key>
+		<string>open</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 市场,集市</string>
+		<key>question</key>
+		<string>market</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 元(美,加拿大等国的货币单位)</string>
+		<key>question</key>
+		<string>dollar</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (货币)分</string>
+		<key>question</key>
+		<string>cent</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 镑(重量单位)</string>
+		<key>question</key>
+		<string>pound</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 健康,卫生</string>
+		<key>question</key>
+		<string>health</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp; adv 快的(地),迅速的(地)</string>
+		<key>question</key>
+		<string>fast</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 当然,自然的事</string>
+		<key>question</key>
+		<string>of course </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v &amp;n 旅行</string>
+		<key>question</key>
+		<string>travel</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 安全的,平安的</string>
+		<key>question</key>
+		<string>safe</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 小型公共汽车</string>
+		<key>question</key>
+		<string>minibus</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 等等</string>
+		<key>question</key>
+		<string>and so on </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 价格,价钱</string>
+		<key>question</key>
+		<string>price</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 例子,榜样</string>
+		<key>question</key>
+		<string>example</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 例如</string>
+		<key>question</key>
+		<string>for example </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 站,立</string>
+		<key>question</key>
+		<string>stand</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 地,田地</string>
+		<key>question</key>
+		<string>field</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr.(过去或将来)有一天,某一天 </string>
+		<key>question</key>
+		<string>one day </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 工作</string>
+		<key>question</key>
+		<string>job</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 明亮的,灿烂的</string>
+		<key>question</key>
+		<string>bright</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 外国的</string>
+		<key>question</key>
+		<string>foreign</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 太阳镜</string>
+		<key>question</key>
+		<string>sunglasses</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 各自,各个</string>
+		<key>question</key>
+		<string>each</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 语言</string>
+		<key>question</key>
+		<string>language</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 有帮助的,有益的</string>
+		<key>question</key>
+		<string>helpful</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 上车</string>
+		<key>question</key>
+		<string>get on (a bus) </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 商业,生意,事物</string>
+		<key>question</key>
+		<string>business</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 公司</string>
+		<key>question</key>
+		<string>company</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 经理,负责人</string>
+		<key>question</key>
+		<string>manager</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 世纪,百年</string>
+		<key>question</key>
+		<string>century</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 课,功课</string>
+		<key>question</key>
+		<string>lesson</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 有趣</string>
+		<key>question</key>
+		<string>fun</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>conj 当......时</string>
+		<key>question</key>
+		<string>when</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 交通</string>
+		<key>question</key>
+		<string>traffic</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 坏的</string>
+		<key>question</key>
+		<string>bad</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v(否定句,疑问句)要紧,有关系</string>
+		<key>question</key>
+		<string>matter</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 准时</string>
+		<key>question</key>
+		<string>on time </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 九月</string>
+		<key>question</key>
+		<string>September</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 快乐的,幸福的</string>
+		<key>question</key>
+		<string>happy</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp;adv 最好的(地)</string>
+		<key>question</key>
+		<string>best</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp;v 祝愿,希望,想要</string>
+		<key>question</key>
+		<string>wish</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num &amp;adj 第二(的)</string>
+		<key>question</key>
+		<string>second</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 主意,想法,意见</string>
+		<key>question</key>
+		<string>idea</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 最后的,刚过去的</string>
+		<key>question</key>
+		<string>last</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 名字</string>
+		<key>question</key>
+		<string>given name </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 表示...的意思,意味着</string>
+		<key>question</key>
+		<string>mean</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 意思,意义,含义</string>
+		<key>question</key>
+		<string>meaning</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

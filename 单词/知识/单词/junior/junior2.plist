@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>prep 用...(表达)</string>
+		<key>question</key>
+		<string>in</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; adj 英语,英国人</string>
+		<key>question</key>
+		<string>English</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 用英语(表达)</string>
+		<key>question</key>
+		<string>in English</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>art 一(个,件...)</string>
+		<key>question</key>
+		<string>a</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 钟</string>
+		<key>question</key>
+		<string>clock</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>conj 和,又,而</string>
+		<key>question</key>
+		<string>and</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 铅笔盒</string>
+		<key>question</key>
+		<string>pencil-box</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>art 一(个;件.)</string>
+		<key>question</key>
+		<string>an</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 铅笔</string>
+		<key>question</key>
+		<string>pencil</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 尺子</string>
+		<key>question</key>
+		<string>ruler</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 钢笔</string>
+		<key>question</key>
+		<string>pen</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 卷笔刀</string>
+		<key>question</key>
+		<string>sharpener</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 橡皮擦</string>
+		<key>question</key>
+		<string>eraser</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 房间</string>
+		<key>question</key>
+		<string>room</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 书</string>
+		<key>question</key>
+		<string>book</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 地图</string>
+		<key>question</key>
+		<string>map</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 书桌</string>
+		<key>question</key>
+		<string>desk</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 杯子</string>
+		<key>question</key>
+		<string>cup</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 书包</string>
+		<key>question</key>
+		<string>bag</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 电脑,电子计算机</string>
+		<key>question</key>
+		<string>computer</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 鼠,耗子,鼠标 </string>
+		<key>question</key>
+		<string>mouse</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 床</string>
+		<key>question</key>
+		<string>bed</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 键盘</string>
+		<key>question</key>
+		<string>keyboard</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>isnot 的缩写形式</string>
+		<key>question</key>
+		<string>isn't</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 梨</string>
+		<key>question</key>
+		<string>pear</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 蛋糕,饼,糕</string>
+		<key>question</key>
+		<string>cake</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 香蕉</string>
+		<key>question</key>
+		<string>banana</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 苹果</string>
+		<key>question</key>
+		<string>apple</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 橙子,橘子</string>
+		<key>question</key>
+		<string>orange</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 蛋</string>
+		<key>question</key>
+		<string>egg</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 自行车</string>
+		<key>question</key>
+		<string>bike</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 公共汽车</string>
+		<key>question</key>
+		<string>bus</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 汽车,小汽车</string>
+		<key>question</key>
+		<string>car</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 吉普车</string>
+		<key>question</key>
+		<string>jeep</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 中国的,中国人的；n 中国人,汉语</string>
+		<key>question</key>
+		<string>Chinese</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 日本的,日本人</string>
+		<key>question</key>
+		<string>Japanese</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 瞧,看</string>
+		<key>question</key>
+		<string>look</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 谁</string>
+		<key>question</key>
+		<string>who</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 她</string>
+		<key>question</key>
+		<string>she</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 他</string>
+		<key>question</key>
+		<string>he</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 鸟</string>
+		<key>question</key>
+		<string>bird</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 它的</string>
+		<key>question</key>
+		<string>Its</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v.aux(构成否定句,疑问句的助动词)</string>
+		<key>question</key>
+		<string>do</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>donot 的缩写形式</string>
+		<key>question</key>
+		<string>don't</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 知道,懂得</string>
+		<key>question</key>
+		<string>know</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 想,认为</string>
+		<key>question</key>
+		<string>think</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 先生(用于姓名前)</string>
+		<key>question</key>
+		<string>Mr=mister</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 很,非常</string>
+		<key>question</key>
+		<string>very</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 图画,照片</string>
+		<key>question</key>
+		<string>picture</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 夫人</string>
+		<key>question</key>
+		<string>Mrs</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

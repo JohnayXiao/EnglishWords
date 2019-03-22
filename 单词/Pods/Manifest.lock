@@ -1,0 +1,15 @@
+PODS:
+  - Masonry (1.1.0)
+  - MMPopupView (1.7.2):
+    - Masonry
+
+DEPENDENCIES:
+  - MMPopupView
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MMPopupView: fe1dd010824029dfb632fdf1a531db5dd5386020
+
+PODFILE CHECKSUM: 94533956c0994db6ceb52af62357efc4db225e95
+
+COCOAPODS: 1.2.1

@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>adj 西方的，西部的</string>
+		<key>question</key>
+		<string>western</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 传统的，惯例的</string>
+		<key>question</key>
+		<string>traditional</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 从前，很早以前</string>
+		<key>question</key>
+		<string>once upon a time </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 特别的，特殊的</string>
+		<key>question</key>
+		<string>special</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 终于，最后</string>
+		<key>question</key>
+		<string>at last  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 拥有者，所有者</string>
+		<key>question</key>
+		<string>owner</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 谷仓，堆物房；马房，牛舍</string>
+		<key>question</key>
+		<string>barn</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 生（孩子）</string>
+		<key>question</key>
+		<string>give birth to </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 牧羊人</string>
+		<key>question</key>
+		<string>shepherd</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 在…生产或制造</string>
+		<key>question</key>
+		<string>be made in </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 由…组成，由…构成</string>
+		<key>question</key>
+		<string>be made of </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 刷子，毛笔，画笔</string>
+		<key>question</key>
+		<string>brush</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 毛笔</string>
+		<key>question</key>
+		<string>writing brush</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 竹子</string>
+		<key>question</key>
+		<string>bamboo</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 用于</string>
+		<key>question</key>
+		<string>be used for </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 平底锅</string>
+		<key>question</key>
+		<string>pan</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n夹克衫 </string>
+		<key>question</key>
+		<string>jacket</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 金属</string>
+		<key>question</key>
+		<string>metal</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 邮票</string>
+		<key>question</key>
+		<string>stamp</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 羊毛，绒线</string>
+		<key>question</key>
+		<string>wool</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 木头，木材</string>
+		<key>question</key>
+		<string>wood</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v 锁；上锁</string>
+		<key>question</key>
+		<string>lock</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 储藏，存储</string>
+		<key>question</key>
+		<string>store</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 广泛地，广阔地</string>
+		<key>question</key>
+		<string>widely</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 英国，不列颠</string>
+		<key>question</key>
+		<string>Britain</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 装置，设备</string>
+		<key>question</key>
+		<string>set</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 一台电视</string>
+		<key>question</key>
+		<string>a TV set </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 德国</string>
+		<key>question</key>
+		<string>Germany</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 法国人</string>
+		<key>question</key>
+		<string>Frenchman</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 旅行者</string>
+		<key>question</key>
+		<string>traveller</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 棉花</string>
+		<key>question</key>
+		<string>cotton</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n （蚕）丝</string>
+		<key>question</key>
+		<string>silk</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 照相机</string>
+		<key>question</key>
+		<string>camera</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 数字似的</string>
+		<key>question</key>
+		<string>digital</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 普通的，通常的</string>
+		<key>question</key>
+		<string>ordinary</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 飞机</string>
+		<key>question</key>
+		<string>aeroplane</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 卫星</string>
+		<key>question</key>
+		<string>satellite</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 火箭</string>
+		<key>question</key>
+		<string>rocket</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 展出</string>
+		<key>question</key>
+		<string>on show  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 恐龙</string>
+		<key>question</key>
+		<string>dinosaur</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 陈列</string>
+		<key>question</key>
+		<string>display</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 陈列，展览</string>
+		<key>question</key>
+		<string>on display  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 自然界的，天然的</string>
+		<key>question</key>
+		<string>natural</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v 向导，导游者；指导，引导</string>
+		<key>question</key>
+		<string>guide</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 地下的</string>
+		<key>question</key>
+		<string>underground</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 化石</string>
+		<key>question</key>
+		<string>fossil</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 沙漠</string>
+		<key>question</key>
+		<string>desert</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 戈壁沙漠</string>
+		<key>question</key>
+		<string>Gobi Desert</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 人</string>
+		<key>question</key>
+		<string>human being</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 消失</string>
+		<key>question</key>
+		<string>disappear</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

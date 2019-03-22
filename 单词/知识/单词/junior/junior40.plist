@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>n 消失</string>
+		<key>question</key>
+		<string>disappearance</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 发现，发觉</string>
+		<key>question</key>
+		<string>discover</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 羽毛</string>
+		<key>question</key>
+		<string>feather</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 成立，建立</string>
+		<key>question</key>
+		<string>found</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 入口，进口，入场</string>
+		<key>question</key>
+		<string>entrance</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 出口</string>
+		<key>question</key>
+		<string>exit</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 易碎的</string>
+		<key>question</key>
+		<string>fragile</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v （将车）停放</string>
+		<key>question</key>
+		<string>park</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 停车（处）</string>
+		<key>question</key>
+		<string>parking</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 危险</string>
+		<key>question</key>
+		<string>danger</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v &amp;n 中止，暂停</string>
+		<key>question</key>
+		<string>pause</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 茶壶</string>
+		<key>question</key>
+		<string>teapot</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 碗</string>
+		<key>question</key>
+		<string>bowl</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 上（酒、菜等），开（饭）；服务</string>
+		<key>question</key>
+		<string>serve</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 装满，填充</string>
+		<key>question</key>
+		<string>fill</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 用…充满</string>
+		<key>question</key>
+		<string>be filled with </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 物体</string>
+		<key>question</key>
+		<string>object</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 挖，掘</string>
+		<key>question</key>
+		<string>dig</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr.确保,确认,查明</string>
+		<key>question</key>
+		<string>make sure</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>conj 以便，以致</string>
+		<key>question</key>
+		<string>so that</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 听说</string>
+		<key>question</key>
+		<string>hear of </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr.流失,逃跑，逃走</string>
+		<key>question</key>
+		<string>run away  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 旱灾，干旱</string>
+		<key>question</key>
+		<string>drought</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 滴，水滴</string>
+		<key>question</key>
+		<string>drop</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 土壤，土地</string>
+		<key>question</key>
+		<string>soil</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 直接地</string>
+		<key>question</key>
+		<string>directly</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 叶子，树木、草的叶子</string>
+		<key>question</key>
+		<string>leaf</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 用这种方法</string>
+		<key>question</key>
+		<string>in this way </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v 洪水，水灾；淹没，泛滥</string>
+		<key>question</key>
+		<string>flood</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 防止，阻止</string>
+		<key>question</key>
+		<string>prevent</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 北部的，北方的</string>
+		<key>question</key>
+		<string>northern</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 宽的</string>
+		<key>question</key>
+		<string>wide</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 吹</string>
+		<key>question</key>
+		<string>blow(blew,blow的过去式;blown,blow的过去分词)</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 沙，沙子</string>
+		<key>question</key>
+		<string>sand</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 向，朝</string>
+		<key>question</key>
+		<string>towards</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 农田</string>
+		<key>question</key>
+		<string>farmland</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 指，指向…</string>
+		<key>question</key>
+		<string>point</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 指向…</string>
+		<key>question</key>
+		<string>point to  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 很远，遥远</string>
+		<key>question</key>
+		<string>far away </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 由于，幸亏</string>
+		<key>question</key>
+		<string>thanks to  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr.越多越好</string>
+		<key>question</key>
+		<string>the more the better </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 改正</string>
+		<key>question</key>
+		<string>correct</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 交上来</string>
+		<key>question</key>
+		<string>hand in </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 多少有点，或多或少</string>
+		<key>question</key>
+		<string>more or less </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 豪华的，庄重的，雄伟的</string>
+		<key>question</key>
+		<string>grand</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 大厅，会堂，会馆</string>
+		<key>question</key>
+		<string>hall</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 通告，布告</string>
+		<key>question</key>
+		<string>notice</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 听众</string>
+		<key>question</key>
+		<string>audience</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (常用复数)拖鞋,便鞋</string>
+		<key>question</key>
+		<string>slipper</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 高度</string>
+		<key>question</key>
+		<string>height</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

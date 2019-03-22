@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>n 知识；学问</string>
+		<key>question</key>
+		<string>knowledge</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 院子</string>
+		<key>question</key>
+		<string>yard</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 校园</string>
+		<key>question</key>
+		<string>schoolyard</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr.把某物放下来</string>
+		<key>question</key>
+		<string>put (sth) down </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v 脚步；走；踏入；踩</string>
+		<key>question</key>
+		<string>step</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 图书管理员</string>
+		<key>question</key>
+		<string>librarian</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 很可能；大概</string>
+		<key>question</key>
+		<string>probably</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>(paid ,pay的过去式和过去分词)v 付钱；支付</string>
+		<key>question</key>
+		<string>pay</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 付钱；支付</string>
+		<key>question</key>
+		<string>pay for  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 难过地；悲哀地</string>
+		<key>question</key>
+		<string>sadly</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 找到；提出（答案，办法）</string>
+		<key>question</key>
+		<string>come up with </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 记号；标记；痕迹</string>
+		<key>question</key>
+		<string>mark</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 书签</string>
+		<key>question</key>
+		<string>bookmark</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 想起</string>
+		<key>question</key>
+		<string>think of </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 鼓励</string>
+		<key>question</key>
+		<string>encourage</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 退还；送 回去；取 回</string>
+		<key>question</key>
+		<string>get…back </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 拾起；捡起 </string>
+		<key>question</key>
+		<string>pick…up </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 一次</string>
+		<key>question</key>
+		<string>once</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 到国外；在国外</string>
+		<key>question</key>
+		<string>abroad</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 抄写；</string>
+		<key>question</key>
+		<string>copy</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 作为</string>
+		<key>question</key>
+		<string>as</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 屏幕</string>
+		<key>question</key>
+		<string>screen</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 糟蹋</string>
+		<key>question</key>
+		<string>spoil (spoilt,spoil的过去式与过去分词)</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 冲浪</string>
+		<key>question</key>
+		<string>surf</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 冲浪运动</string>
+		<key>question</key>
+		<string>surfing</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 冲浪者</string>
+		<key>question</key>
+		<string>surfer</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 浪；波浪</string>
+		<key>question</key>
+		<string>wave</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 海（河、湖）滩</string>
+		<key>question</key>
+		<string>beach</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 尝试；努力；射击</string>
+		<key>question</key>
+		<string>have a try </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 两次；两倍</string>
+		<key>question</key>
+		<string>twice</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 一个人也没有；没有任何东 西</string>
+		<key>question</key>
+		<string>none</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 做滑水运动</string>
+		<key>question</key>
+		<string>water-ski</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 乘独木舟</string>
+		<key>question</key>
+		<string>canoe</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 描写；叙述</string>
+		<key>question</key>
+		<string>describe</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 遍及</string>
+		<key>question</key>
+		<string>all over </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 特别；尤其</string>
+		<key>question</key>
+		<string>especially</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 吸引</string>
+		<key>question</key>
+		<string>attract</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 许多</string>
+		<key>question</key>
+		<string>large numbers of </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 不论</string>
+		<key>question</key>
+		<string>no matter </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 所谓的</string>
+		<key>question</key>
+		<string>so-called</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 可能的</string>
+		<key>question</key>
+		<string>possible</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. ...和...都 </string>
+		<key>question</key>
+		<string>both…and… </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 放弃</string>
+		<key>question</key>
+		<string>give up </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv &amp; conj 此后;自..以来</string>
+		<key>question</key>
+		<string>since</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 从那时起；此后一直</string>
+		<key>question</key>
+		<string>ever since </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj&amp;n非全日工作的;业余 时间</string>
+		<key>question</key>
+		<string>part-time</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>conj 虽然；尽管</string>
+		<key>question</key>
+		<string>although</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp; v 健康的；适合的；（使）适 合</string>
+		<key>question</key>
+		<string>fit</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 奖品；奖赏</string>
+		<key>question</key>
+		<string>prize</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 比赛；竞争</string>
+		<key>question</key>
+		<string>competition</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

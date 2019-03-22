@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>n 航空站,飞机场</string>
+		<key>question</key>
+		<string>airport</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 瑞典的,瑞典人的</string>
+		<key>question</key>
+		<string>Swedish</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 摇动,摇滚乐</string>
+		<key>question</key>
+		<string>rock</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 乐队</string>
+		<key>question</key>
+		<string>band</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 音乐会,演奏会</string>
+		<key>question</key>
+		<string>concert</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 开音乐会</string>
+		<key>question</key>
+		<string>give a concert </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv &amp;n 今晚</string>
+		<key>question</key>
+		<string>tonight</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 歌唱者,歌手</string>
+		<key>question</key>
+		<string>singer</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n记者,新闻工作者 </string>
+		<key>question</key>
+		<string>journalist</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 有名的,著名的</string>
+		<key>question</key>
+		<string>famous</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 瑞典</string>
+		<key>question</key>
+		<string>Sweden</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 歌,歌曲,歌谣</string>
+		<key>question</key>
+		<string>song</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 多过,...以上,比....更</string>
+		<key>question</key>
+		<string>more than </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num 千</string>
+		<key>question</key>
+		<string>thousand</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 事故,灾难</string>
+		<key>question</key>
+		<string>accident</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 粗心的,大意的</string>
+		<key>question</key>
+		<string>careless</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 倒下,跌倒,从...落下</string>
+		<key>question</key>
+		<string>fall down </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 折断,断裂,破碎</string>
+		<key>question</key>
+		<string>break</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 继续</string>
+		<key>question</key>
+		<string>go on </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 某人,有人</string>
+		<key>question</key>
+		<string>someone</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 心(脏)</string>
+		<key>question</key>
+		<string>heart</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; adj 过去(的)</string>
+		<key>question</key>
+		<string>past</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v 末端,终点,结束</string>
+		<key>question</key>
+		<string>end</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 在...结尾,到...尽头</string>
+		<key>question</key>
+		<string>at the end of </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v (偶然)发生,碰巧</string>
+		<key>question</key>
+		<string>happen</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 部分</string>
+		<key>question</key>
+		<string>part</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 旅游者,观光者</string>
+		<key>question</key>
+		<string>tourist</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 回去</string>
+		<key>question</key>
+		<string>go back </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 匆忙地</string>
+		<key>question</key>
+		<string>in a hurry </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 葡萄</string>
+		<key>question</key>
+		<string>grape</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (自然)科学</string>
+		<key>question</key>
+		<string>science</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 结婚</string>
+		<key>question</key>
+		<string>marry</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 结婚</string>
+		<key>question</key>
+		<string>get married </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 题目,题材</string>
+		<key>question</key>
+		<string>subject</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 友谊,友情</string>
+		<key>question</key>
+		<string>friendship</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 任何人</string>
+		<key>question</key>
+		<string>anyone</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 日期</string>
+		<key>question</key>
+		<string>date</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 季节</string>
+		<key>question</key>
+		<string>season</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 写下,记下</string>
+		<key>question</key>
+		<string>write down </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 一月</string>
+		<key>question</key>
+		<string>January</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 三月</string>
+		<key>question</key>
+		<string>March</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 六月</string>
+		<key>question</key>
+		<string>June</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 七月</string>
+		<key>question</key>
+		<string>July</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 八月</string>
+		<key>question</key>
+		<string>August</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 十二月</string>
+		<key>question</key>
+		<string>December</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 春天</string>
+		<key>question</key>
+		<string>spring</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 持续,耐久</string>
+		<key>question</key>
+		<string>last</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 天气</string>
+		<key>question</key>
+		<string>weather</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 暖和的,热情的</string>
+		<key>question</key>
+		<string>warm</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. (花)开,发(芽),出来</string>
+		<key>question</key>
+		<string>come out</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>adv 一直地</string>
+		<key>question</key>
+		<string>straight</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 沿着…一直往前走</string>
+		<key>question</key>
+		<string>go straight along </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 谁，哪个人（who的宾格）</string>
+		<key>question</key>
+		<string>whom</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 考虑</string>
+		<key>question</key>
+		<string>think about </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 机会</string>
+		<key>question</key>
+		<string>chance</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 珊瑚</string>
+		<key>question</key>
+		<string>coral</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 岩礁</string>
+		<key>question</key>
+		<string>reef</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 珊瑚礁</string>
+		<key>question</key>
+		<string>coral reef</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 听起来</string>
+		<key>question</key>
+		<string>sound</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 小册子</string>
+		<key>question</key>
+		<string>brochure</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 水池，水坑</string>
+		<key>question</key>
+		<string>pool</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 户外的，野外的</string>
+		<key>question</key>
+		<string>outdoor</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 严重地，恶劣地</string>
+		<key>question</key>
+		<string>badly</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 允许，准许</string>
+		<key>question</key>
+		<string>allow</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 深的</string>
+		<key>question</key>
+		<string>deep</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 探测，探险</string>
+		<key>question</key>
+		<string>explore</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 探测者，探险者</string>
+		<key>question</key>
+		<string>explorer</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 海底的</string>
+		<key>question</key>
+		<string>undersea</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 使…大为惊讶，使惊</string>
+		<key>question</key>
+		<string>amaze</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 对…感到惊讶</string>
+		<key>question</key>
+		<string>be amazed at </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>conj 然而，可是</string>
+		<key>question</key>
+		<string>however</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 颜色艳丽的</string>
+		<key>question</key>
+		<string>colourful</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 死的</string>
+		<key>question</key>
+		<string>dead</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 社会</string>
+		<key>question</key>
+		<string>society</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>conj 由于，既然</string>
+		<key>question</key>
+		<string>since</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 覆盖</string>
+		<key>question</key>
+		<string>cover</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 陆地，大地，地球</string>
+		<key>question</key>
+		<string>earth</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 清除，收拾干净</string>
+		<key>question</key>
+		<string>clean up  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 海洋，大洋</string>
+		<key>question</key>
+		<string>ocean</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 污染，弄脏</string>
+		<key>question</key>
+		<string>pollute</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 组，群，团队</string>
+		<key>question</key>
+		<string>group</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj （口语）很棒的，极好的</string>
+		<key>question</key>
+		<string>terrific</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 长达…</string>
+		<key>question</key>
+		<string>as long as </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv （未来的）某时</string>
+		<key>question</key>
+		<string>sometime</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n （口语）协议，交易</string>
+		<key>question</key>
+		<string>deal</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 鲨鱼</string>
+		<key>question</key>
+		<string>shark</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 在地球上</string>
+		<key>question</key>
+		<string>on earth  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 相似的，相像的</string>
+		<key>question</key>
+		<string>alike</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v 攻击，袭击</string>
+		<key>question</key>
+		<string>attack</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 非洲</string>
+		<key>question</key>
+		<string>Africa</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 南非</string>
+		<key>question</key>
+		<string>South Africa</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 监视塔，瞭望塔</string>
+		<key>question</key>
+		<string>watchtower</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 警告，提醒</string>
+		<key>question</key>
+		<string>warn</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 出现，露面</string>
+		<key>question</key>
+		<string>appear</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 有能力的，能干的</string>
+		<key>question</key>
+		<string>able</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 能，会</string>
+		<key>question</key>
+		<string>be able to </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 整洁地</string>
+		<key>question</key>
+		<string>neatly</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 拥有，所有</string>
+		<key>question</key>
+		<string>own</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 精神</string>
+		<key>question</key>
+		<string>spirit</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 发明者，创造者</string>
+		<key>question</key>
+		<string>inventor</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

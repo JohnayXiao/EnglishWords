@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>adv大量地,猛烈地,厉害地 </string>
+		<key>question</key>
+		<string>heavily</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 庄稼,收成</string>
+		<key>question</key>
+		<string>crop</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 确实,真正地</string>
+		<key>question</key>
+		<string>really</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v 雪,下雪</string>
+		<key>question</key>
+		<string>snow</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 雪人</string>
+		<key>question</key>
+		<string>snowman</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 一年到头</string>
+		<key>question</key>
+		<string>all the year round </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 真的,真实的</string>
+		<key>question</key>
+		<string>TRUE</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 将近,几乎</string>
+		<key>question</key>
+		<string>nearly</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 不像,和...不同</string>
+		<key>question</key>
+		<string>unlike</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 对面的,相反的</string>
+		<key>question</key>
+		<string>opposite</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 晴朗的,阳光充足的</string>
+		<key>question</key>
+		<string>sunny</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 云</string>
+		<key>question</key>
+		<string>cloud</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 多云的,阴天的</string>
+		<key>question</key>
+		<string>cloudy</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 湿的</string>
+		<key>question</key>
+		<string>wet</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 多雨的,下雨的</string>
+		<key>question</key>
+		<string>rainy</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 风</string>
+		<key>question</key>
+		<string>wind</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 有风的,风大的</string>
+		<key>question</key>
+		<string>windy</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 多雪的,降雪的</string>
+		<key>question</key>
+		<string>snowy</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 以后,后来</string>
+		<key>question</key>
+		<string>later</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 后来,稍后</string>
+		<key>question</key>
+		<string>later on </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v (钟,铃等)响,摇铃</string>
+		<key>question</key>
+		<string>ring</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 打电话</string>
+		<key>question</key>
+		<string>ring up </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; adj 西方、西部(的)</string>
+		<key>question</key>
+		<string>west</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 奇怪的,陌生的</string>
+		<key>question</key>
+		<string>strange</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 日光,阳光</string>
+		<key>question</key>
+		<string>sunshine</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 瓜</string>
+		<key>question</key>
+		<string>melon</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 收音机</string>
+		<key>question</key>
+		<string>radio</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v 报导,报告</string>
+		<key>question</key>
+		<string>report</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v 北方(的),北部(的)</string>
+		<key>question</key>
+		<string>north</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v 南方(的),南部(的)</string>
+		<key>question</key>
+		<string>south</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 有时,偶尔</string>
+		<key>question</key>
+		<string>at times </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 东北,东北部</string>
+		<key>question</key>
+		<string>northeast</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 温度</string>
+		<key>question</key>
+		<string>temperature</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 在...上面</string>
+		<key>question</key>
+		<string>above</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 白天</string>
+		<key>question</key>
+		<string>daytime</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 在...下,低于</string>
+		<key>question</key>
+		<string>below</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 西北,西北部</string>
+		<key>question</key>
+		<string>northwest</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v (云,雾等)消散,(雨)停止</string>
+		<key>question</key>
+		<string>lift</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp; adv ( bad,ill的比较级)更坏,更差</string>
+		<key>question</key>
+		<string>worse</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 有雾,多雾的</string>
+		<key>question</key>
+		<string>foggy</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 低的,浅,矮的</string>
+		<key>question</key>
+		<string>low</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 生日</string>
+		<key>question</key>
+		<string>birthday</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 邀请,招待</string>
+		<key>question</key>
+		<string>invite</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 影片,电影</string>
+		<key>question</key>
+		<string>film</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 拿,握</string>
+		<key>question</key>
+		<string>hold</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. (打电话时)等一等,不挂断</string>
+		<key>question</key>
+		<string>hold on  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 消息,信息</string>
+		<key>question</key>
+		<string>message</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 捎/留口信</string>
+		<key>question</key>
+		<string>take/leave a message </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 准备好的,乐意的</string>
+		<key>question</key>
+		<string>ready</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 三明治,夹心面包片</string>
+		<key>question</key>
+		<string>sandwich</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

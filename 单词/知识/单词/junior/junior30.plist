@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>adj极好的,精彩的 </string>
+		<key>question</key>
+		<string>wonderful</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. (患)感冒</string>
+		<key>question</key>
+		<string>have a cold </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 曾经,以前</string>
+		<key>question</key>
+		<string>once</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 他自己</string>
+		<key>question</key>
+		<string>himself</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 牙齿</string>
+		<key>question</key>
+		<string>tooth</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 杀死,弄死</string>
+		<key>question</key>
+		<string>kill</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 自学</string>
+		<key>question</key>
+		<string>teach oneself </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. (从...)掉下</string>
+		<key>question</key>
+		<string>fall off  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 聪明的,机灵的</string>
+		<key>question</key>
+		<string>clever</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 你们自己</string>
+		<key>question</key>
+		<string>yourselves</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 找出,查出</string>
+		<key>question</key>
+		<string>find out  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 钢琴</string>
+		<key>question</key>
+		<string>piano</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; adj 月光(的)</string>
+		<key>question</key>
+		<string>moonlight</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 贫穷的,可怜的</string>
+		<key>question</key>
+		<string>poor</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v有足够的(钱/时间)做(某事)</string>
+		<key>question</key>
+		<string>afford</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 敲,击</string>
+		<key>question</key>
+		<string>knock</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 敲(门,窗等)</string>
+		<key>question</key>
+		<string>knock at </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 微暗的,昏暗的</string>
+		<key>question</key>
+		<string>dim</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 原谅(某人),宽恕</string>
+		<key>question</key>
+		<string>pardon</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 令(某人)惊讶</string>
+		<key>question</key>
+		<string>to one's surprise </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 瞎的,盲的</string>
+		<key>question</key>
+		<string>blind</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 照亮,发亮</string>
+		<key>question</key>
+		<string>shine</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 明亮的,晴朗的</string>
+		<key>question</key>
+		<string>bright</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 明亮地,闪亮地</string>
+		<key>question</key>
+		<string>brightly</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 通过,穿过,经过</string>
+		<key>question</key>
+		<string>through</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 向上看,抬头看</string>
+		<key>question</key>
+		<string>look up  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 寂静地,沉默地</string>
+		<key>question</key>
+		<string>silently</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 来,随同</string>
+		<key>question</key>
+		<string>come along</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 回来,归还</string>
+		<key>question</key>
+		<string>return</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 小甜饼</string>
+		<key>question</key>
+		<string>cookie</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 把...遗留在(留下) </string>
+		<key>question</key>
+		<string>leave...behind </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 举行运动会</string>
+		<key>question</key>
+		<string>hold a sports meeting </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 赛跑</string>
+		<key>question</key>
+		<string>race</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 100米赛跑</string>
+		<key>question</key>
+		<string>100-metre race </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 获胜,赢</string>
+		<key>question</key>
+		<string>win</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 跳高</string>
+		<key>question</key>
+		<string>high jump</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 跳远</string>
+		<key>question</key>
+		<string>long jump</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 颈,脖子</string>
+		<key>question</key>
+		<string>neck</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 积极的</string>
+		<key>question</key>
+		<string>active</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr.积极参加</string>
+		<key>question</key>
+		<string>take an active part in </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 接力,赛跑</string>
+		<key>question</key>
+		<string>relay</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 起点/终点线</string>
+		<key>question</key>
+		<string>starting/finishing line </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 赛跑的人</string>
+		<key>question</key>
+		<string>runner</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 大声的,响亮的</string>
+		<key>question</key>
+		<string>loud</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 大声地,高声地</string>
+		<key>question</key>
+		<string>loudly</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (竞赛场的)一圈</string>
+		<key>question</key>
+		<string>lap</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 传递,转移到...</string>
+		<key>question</key>
+		<string>pass on  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 棒,棍</string>
+		<key>question</key>
+		<string>stick</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 赶上</string>
+		<key>question</key>
+		<string>catch up with </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. (竞赛等)并驾齐驱</string>
+		<key>question</key>
+		<string>neck and neck </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

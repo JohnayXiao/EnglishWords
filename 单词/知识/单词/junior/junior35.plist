@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>n 大事；事件</string>
+		<key>question</key>
+		<string>event</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 奥林匹克的</string>
+		<key>question</key>
+		<string>Olympic</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 奥林匹克运动会</string>
+		<key>question</key>
+		<string>the Olympic Games </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 这样的</string>
+		<key>question</key>
+		<string>such</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 失败；不及格</string>
+		<key>question</key>
+		<string>fail</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n&amp;v练习, 实践</string>
+		<key>question</key>
+		<string>practice﹠practise</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 商业；生意；事务</string>
+		<key>question</key>
+		<string>business</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 到目前为止</string>
+		<key>question</key>
+		<string>so far </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 越过；穿过</string>
+		<key>question</key>
+		<string>cross</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 海峡；航道；频道；波段</string>
+		<key>question</key>
+		<string>channel</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 实现</string>
+		<key>question</key>
+		<string>come true </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 大陆；本土</string>
+		<key>question</key>
+		<string>mainland</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 放慢；减速</string>
+		<key>question</key>
+		<string>slow</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 减缓；减速</string>
+		<key>question</key>
+		<string>slow down </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 旅程；旅行；路程</string>
+		<key>question</key>
+		<string>journey</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 在……当中</string>
+		<key>question</key>
+		<string>among</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 自豪的；骄傲的</string>
+		<key>question</key>
+		<string>proud</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 以……自豪（兴奋）</string>
+		<key>question</key>
+		<string>be proud of </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 称赞</string>
+		<key>question</key>
+		<string>speak highly of </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 不但……而且</string>
+		<key>question</key>
+		<string>not only…but also </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 自豪；骄傲</string>
+		<key>question</key>
+		<string>pride</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>conj 除非；如果不</string>
+		<key>question</key>
+		<string>unless</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 尝试；努力；射击</string>
+		<key>question</key>
+		<string>shot</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 真理，真相，事实</string>
+		<key>question</key>
+		<string>truth</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 倒；灌；倾泻</string>
+		<key>question</key>
+		<string>pour</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp;n 废弃的；无用的；垃圾；废物</string>
+		<key>question</key>
+		<string>waste</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 脏的</string>
+		<key>question</key>
+		<string>dirty</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 害怕</string>
+		<key>question</key>
+		<string>be afraid of </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 成员</string>
+		<key>question</key>
+		<string>member</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 加入；参加</string>
+		<key>question</key>
+		<string>join</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 环境</string>
+		<key>question</key>
+		<string>environment</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 损害；伤害</string>
+		<key>question</key>
+		<string>harm</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 垃圾；废物</string>
+		<key>question</key>
+		<string>rubbish</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 收集；搜集</string>
+		<key>question</key>
+		<string>collect</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>conj&amp;adv无论什么时候;随时 </string>
+		<key>question</key>
+		<string>whenever</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 产生；生产；制造</string>
+		<key>question</key>
+		<string>produce</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>conj &amp; adv 无论在（到）哪里；在任何地方</string>
+		<key>question</key>
+		<string>wherever</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n. 四邻；街坊；邻近</string>
+		<key>question</key>
+		<string>neighbourhood</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v 垃圾，废物；乱丢杂物</string>
+		<key>question</key>
+		<string>litter</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 在…上面；到…上面</string>
+		<key>question</key>
+		<string>onto</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 公共的；公众的</string>
+		<key>question</key>
+		<string>public</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v吐痰；吐唾沫</string>
+		<key>question</key>
+		<string>spit(spat，spit的过去式和过去分词)</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 砍倒</string>
+		<key>question</key>
+		<string>cut down  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 保护</string>
+		<key>question</key>
+		<string>protect</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 整洁的；整齐的</string>
+		<key>question</key>
+		<string>tidy</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 垃圾箱</string>
+		<key>question</key>
+		<string>dustbin</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 再循环；回收再用</string>
+		<key>question</key>
+		<string>recycle</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 贡献</string>
+		<key>question</key>
+		<string>contribution</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 贡献给；捐赠</string>
+		<key>question</key>
+		<string>make a contribution to </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 猜想</string>
+		<key>question</key>
+		<string>suppose</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

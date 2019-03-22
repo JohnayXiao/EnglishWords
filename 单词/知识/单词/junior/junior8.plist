@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>n (男式)衬衫</string>
+		<key>question</key>
+		<string>shirt</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 裤子</string>
+		<key>question</key>
+		<string>trousers</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 女裙</string>
+		<key>question</key>
+		<string>skirt</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 深(浓)色的,黑暗的</string>
+		<key>question</key>
+		<string>dark</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 你的,你们的</string>
+		<key>question</key>
+		<string>yours</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 我的</string>
+		<key>question</key>
+		<string>mine</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 她的</string>
+		<key>question</key>
+		<string>hers</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr.穿上(衣服等),戴上(帽子等) </string>
+		<key>question</key>
+		<string>put on</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron他们(她们,它们)的 </string>
+		<key>question</key>
+		<string>theirs</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 我们的</string>
+		<key>question</key>
+		<string>ours</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 手套</string>
+		<key>question</key>
+		<string>glove</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 关于,对于</string>
+		<key>question</key>
+		<string>about</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. (询问消息,征求意 见)…怎么样?</string>
+		<key>question</key>
+		<string>What about...?</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 在...旁边</string>
+		<key>question</key>
+		<string>beside</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v 手表、观看,注视</string>
+		<key>question</key>
+		<string>watch</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 给</string>
+		<key>question</key>
+		<string>give</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 时间</string>
+		<key>question</key>
+		<string>time</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 大约</string>
+		<key>question</key>
+		<string>about</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num 三十</string>
+		<key>question</key>
+		<string>thirty</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 起床</string>
+		<key>question</key>
+		<string>get up</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp; adv 迟的(地),晚的(地)</string>
+		<key>question</key>
+		<string>late</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>…点钟 </string>
+		<key>question</key>
+		<string>o'clock</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 午夜</string>
+		<key>question</key>
+		<string>midnight</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 中午,正午</string>
+		<key>question</key>
+		<string>noon</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep (超)过,经过</string>
+		<key>question</key>
+		<string>past</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 半,一半</string>
+		<key>question</key>
+		<string>half</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 一刻钟,四分之一</string>
+		<key>question</key>
+		<string>quarter</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 为,给</string>
+		<key>question</key>
+		<string>for</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (课间)休息,中断</string>
+		<key>question</key>
+		<string>break</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 午餐</string>
+		<key>question</key>
+		<string>lunch</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 早餐</string>
+		<key>question</key>
+		<string>breakfast</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 把...弄干净,擦干净</string>
+		<key>question</key>
+		<string>clean</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 晚餐</string>
+		<key>question</key>
+		<string>supper</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string> phr. 吃晚餐</string>
+		<key>question</key>
+		<string>have supper</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 电视,电视机 </string>
+		<key>question</key>
+		<string>TV</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 看电视</string>
+		<key>question</key>
+		<string>watch TV</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 游戏,运动</string>
+		<key>question</key>
+		<string>game</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string> phr. 回家</string>
+		<key>question</key>
+		<string>go home</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>下午,午后</string>
+		<key>question</key>
+		<string>p.m.</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 伦敦</string>
+		<key>question</key>
+		<string>London</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 东京</string>
+		<key>question</key>
+		<string>Tokyo</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 悉尼</string>
+		<key>question</key>
+		<string>Sydney</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 小时</string>
+		<key>question</key>
+		<string>hour</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>午前,上午</string>
+		<key>question</key>
+		<string>a.m.</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num 百</string>
+		<key>question</key>
+		<string>hundred</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 你自己</string>
+		<key>question</key>
+		<string>yourself</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 卧室</string>
+		<key>question</key>
+		<string>bedroom</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 玩具娃娃</string>
+		<key>question</key>
+		<string>doll</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv &amp; adj 别(的),其他(的)</string>
+		<key>question</key>
+		<string>else</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv&amp;adj的确,一定 确信的,肯定的 </string>
+		<key>question</key>
+		<string>sure</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

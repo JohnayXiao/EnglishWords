@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>n 儿童游戏房</string>
+		<key>question</key>
+		<string>playhouse</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 喜欢</string>
+		<key>question</key>
+		<string>like</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 玩,打(球)</string>
+		<key>question</key>
+		<string>play</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 在上面,在高处,向上,起来</string>
+		<key>question</key>
+		<string>up</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 和</string>
+		<key>question</key>
+		<string>with</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv (口语)好极了,很好</string>
+		<key>question</key>
+		<string>great</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 瞧,看</string>
+		<key>question</key>
+		<string>look</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string> phr. 看一看</string>
+		<key>question</key>
+		<string>have a look</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 乒乓球</string>
+		<key>question</key>
+		<string>ping-pong</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 多少</string>
+		<key>question</key>
+		<string>how many</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 风筝</string>
+		<key>question</key>
+		<string>kite</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 年轻的,幼小的</string>
+		<key>question</key>
+		<string>young</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 先锋</string>
+		<key>question</key>
+		<string>pioneer</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 少先队员</string>
+		<key>question</key>
+		<string>Young Pioneer</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n man的缩写形式</string>
+		<key>question</key>
+		<string>men</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n woman的复数形式</string>
+		<key>question</key>
+		<string>women</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 仅仅,只</string>
+		<key>question</key>
+		<string>only</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 工作</string>
+		<key>question</key>
+		<string>work</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 在工作</string>
+		<key>question</key>
+		<string>at work</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 天空</string>
+		<key>question</key>
+		<string>sky</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 数,点数</string>
+		<key>question</key>
+		<string>count</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 江,河</string>
+		<key>question</key>
+		<string>river</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 狗</string>
+		<key>question</key>
+		<string>dog</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 灯</string>
+		<key>question</key>
+		<string>light</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj(用于否定句,疑问句等)什么,任何</string>
+		<key>question</key>
+		<string>any</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 动物</string>
+		<key>question</key>
+		<string>animal</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 人,人们</string>
+		<key>question</key>
+		<string>people</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp; adv 小的,一点儿,稍许</string>
+		<key>question</key>
+		<string>little</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 绵羊</string>
+		<key>question</key>
+		<string>sheep</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 来吧,跟着来,赶快</string>
+		<key>question</key>
+		<string>come on</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp;n 红色(的)</string>
+		<key>question</key>
+		<string>red</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n颜色；v 给...着色</string>
+		<key>question</key>
+		<string>colour</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp;n 黄色(的)</string>
+		<key>question</key>
+		<string>yellow</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp;n 蓝色(的)</string>
+		<key>question</key>
+		<string>blue</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp;n 白色(的)</string>
+		<key>question</key>
+		<string>white</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp;n 绿色(的)</string>
+		<key>question</key>
+		<string>green</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp;n 紫色(的)</string>
+		<key>question</key>
+		<string>purple</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj&amp;n棕色(的),褐色(的) </string>
+		<key>question</key>
+		<string>brown</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp;n 橙色(的)</string>
+		<key>question</key>
+		<string>orange</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp;n 灰色(的),灰白(的)</string>
+		<key>question</key>
+		<string>grey</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 毛衣,厚运动衫</string>
+		<key>question</key>
+		<string>sweater</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 淡(浅)色的,轻的</string>
+		<key>question</key>
+		<string>light</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 要,想要</string>
+		<key>question</key>
+		<string>want</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron &amp; adj 哪一个,哪些</string>
+		<key>question</key>
+		<string>which</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 用来代替单数的人或物</string>
+		<key>question</key>
+		<string>one</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 衣服</string>
+		<key>question</key>
+		<string>clothes</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 线,绳索</string>
+		<key>question</key>
+		<string>line</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 谁的</string>
+		<key>question</key>
+		<string>whose</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 女衬衫</string>
+		<key>question</key>
+		<string>blouse</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 女服,(统称)衣服</string>
+		<key>question</key>
+		<string>dress</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>n 书店</string>
+		<key>question</key>
+		<string>bookshop</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 厕所</string>
+		<key>question</key>
+		<string>toilet</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 博物馆</string>
+		<key>question</key>
+		<string>museum</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp;n 前面(的),前部</string>
+		<key>question</key>
+		<string>front</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 在...前面</string>
+		<key>question</key>
+		<string>in front of </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; adj 左(的),左边(的)</string>
+		<key>question</key>
+		<string>left</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; adj 右(的),右边(的)</string>
+		<key>question</key>
+		<string>right</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 边,面</string>
+		<key>question</key>
+		<string>side</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 在左(右)边</string>
+		<key>question</key>
+		<string>on the left/right side </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 仍然,还是</string>
+		<key>question</key>
+		<string>all the same </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 需要,必需</string>
+		<key>question</key>
+		<string>need</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 请求,询问</string>
+		<key>question</key>
+		<string>ask for </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep沿着,顺着 一起,一道</string>
+		<key>question</key>
+		<string>along</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 道路,公路</string>
+		<key>question</key>
+		<string>road</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v (使)转动,(使)翻动</string>
+		<key>question</key>
+		<string>turn</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 拐弯处</string>
+		<key>question</key>
+		<string>turning</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 公尺,米</string>
+		<key>question</key>
+		<string>metre</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 公里,千米</string>
+		<key>question</key>
+		<string>kilometre</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 最好(做...)</string>
+		<key>question</key>
+		<string>had better (do) </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 硬币</string>
+		<key>question</key>
+		<string>coin</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 保持,留住</string>
+		<key>question</key>
+		<string>keep</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>conj 按照,如同</string>
+		<key>question</key>
+		<string>as</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 片刻,瞬间</string>
+		<key>question</key>
+		<string>moment</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 告述,讲述,吩咐</string>
+		<key>question</key>
+		<string>tell</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 街道</string>
+		<key>question</key>
+		<string>street</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 相邻,靠近</string>
+		<key>question</key>
+		<string>next to  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 在...周围环绕着</string>
+		<key>question</key>
+		<string>around</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 电梯</string>
+		<key>question</key>
+		<string>lift</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 上上下下,来来回回</string>
+		<key>question</key>
+		<string>up and down </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 忙的,繁忙的</string>
+		<key>question</key>
+		<string>busy</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 队,组</string>
+		<key>question</key>
+		<string>team</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>(center )n 中心</string>
+		<key>question</key>
+		<string>centre</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 大众的,流行的</string>
+		<key>question</key>
+		<string>popular</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 英式足球</string>
+		<key>question</key>
+		<string>soccer</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 很,十分</string>
+		<key>question</key>
+		<string>quite</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 月</string>
+		<key>question</key>
+		<string>month</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 村庄,乡村</string>
+		<key>question</key>
+		<string>village</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 强壮的,坚强的</string>
+		<key>question</key>
+		<string>strong</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v be(am,is,are)的过去式</string>
+		<key>question</key>
+		<string>was</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; adv 昨天</string>
+		<key>question</key>
+		<string>yesterday</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 十一月</string>
+		<key>question</key>
+		<string>November</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 病的</string>
+		<key>question</key>
+		<string>ill</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 希望</string>
+		<key>question</key>
+		<string>hope</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 作文作品 </string>
+		<key>question</key>
+		<string>composition</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 记起,想起</string>
+		<key>question</key>
+		<string>remember</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 动词be(are)的过去式</string>
+		<key>question</key>
+		<string>were</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 一点儿,小片</string>
+		<key>question</key>
+		<string>bit</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 一点儿</string>
+		<key>question</key>
+		<string>a bit</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 健康的,健壮的</string>
+		<key>question</key>
+		<string>healthy</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 成长,长大</string>
+		<key>question</key>
+		<string>grow up  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

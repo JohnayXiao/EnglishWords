@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>phr. 把…当作，当作</string>
+		<key>question</key>
+		<string>regard… as </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 准确地，严格地</string>
+		<key>question</key>
+		<string>exactly</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 饲养，照顾</string>
+		<key>question</key>
+		<string>keep</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 经验，体验</string>
+		<key>question</key>
+		<string>experience</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 注射，打针</string>
+		<key>question</key>
+		<string>injection</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 疼痛的，痛苦的</string>
+		<key>question</key>
+		<string>painful</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 地震</string>
+		<key>question</key>
+		<string>earthquake</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 震动，摇动</string>
+		<key>question</key>
+		<string>rock</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>conj 好像,似乎</string>
+		<key>question</key>
+		<string>as if </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 在大海上</string>
+		<key>question</key>
+		<string>at sea</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n （房屋的）层</string>
+		<key>question</key>
+		<string>story</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 两层 </string>
+		<key>question</key>
+		<string>two-story</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 抓取…，夺取</string>
+		<key>question</key>
+		<string>grab</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 坠落，冲撞</string>
+		<key>question</key>
+		<string>crash</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 可移动的</string>
+		<key>question</key>
+		<string>mobile</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 可移动电话</string>
+		<key>question</key>
+		<string>mobile phone</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. （用否定句）一点也不</string>
+		<key>question</key>
+		<string>at all  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 最少，最小</string>
+		<key>question</key>
+		<string>least</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 至少，起码</string>
+		<key>question</key>
+		<string>at least </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 打败，敲打</string>
+		<key>question</key>
+		<string>beat</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n （足球）球门，得分</string>
+		<key>question</key>
+		<string>goal</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 到…的时候</string>
+		<key>question</key>
+		<string>by the time </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n（购货时的）结帐台,收银台 </string>
+		<key>question</key>
+		<string>check-out</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 察觉，领悟，了解</string>
+		<key>question</key>
+		<string>realize</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 训练，培养</string>
+		<key>question</key>
+		<string>train</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 训练，培养</string>
+		<key>question</key>
+		<string>training</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n （足球队等）队长</string>
+		<key>question</key>
+		<string>captain</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 应得，值得…</string>
+		<key>question</key>
+		<string>deserve</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 有自信的，确信的</string>
+		<key>question</key>
+		<string>confident</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n （足球）前锋</string>
+		<key>question</key>
+		<string>striker</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 中场</string>
+		<key>question</key>
+		<string>midfield</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 中场球员</string>
+		<key>question</key>
+		<string>midfield player</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 极好的，优秀的</string>
+		<key>question</key>
+		<string>excellent</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n （球赛中）击，射门，投篮，发射</string>
+		<key>question</key>
+		<string>shot</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 紧张不安的</string>
+		<key>question</key>
+		<string>nervous</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 懒惰的</string>
+		<key>question</key>
+		<string>lazy</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 坚持下去，继续下去</string>
+		<key>question</key>
+		<string>carry on  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 最后的</string>
+		<key>question</key>
+		<string>final</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 令人惊奇的</string>
+		<key>question</key>
+		<string>amazing</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 对…感到满意</string>
+		<key>question</key>
+		<string>be pleased with </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 演出，成果，成绩</string>
+		<key>question</key>
+		<string>performance</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 合作，协同工作</string>
+		<key>question</key>
+		<string>teamwork</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 棒球</string>
+		<key>question</key>
+		<string>baseball</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 没关系</string>
+		<key>question</key>
+		<string>never mind  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 令人厌烦的</string>
+		<key>question</key>
+		<string>boring</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 溢出，溅出，洒出</string>
+		<key>question</key>
+		<string>spill(spilt,spill的过去式和过去分词)</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 从现在起，今后 </string>
+		<key>question</key>
+		<string>from now on  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 规则，规定</string>
+		<key>question</key>
+		<string>rule</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 与…对抗，对着</string>
+		<key>question</key>
+		<string>against</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 期望，预期</string>
+		<key>question</key>
+		<string>expect</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>conj 与...一样 </string>
+		<key>question</key>
+		<string>as...as</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 片刻之后</string>
+		<key>question</key>
+		<string>a moment later </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 继续做(某事)</string>
+		<key>question</key>
+		<string>go on doing sth </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 落在...后面,输给别人</string>
+		<key>question</key>
+		<string>fall behind </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 获胜者</string>
+		<key>question</key>
+		<string>winner</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 做得好</string>
+		<key>question</key>
+		<string>well done </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (常用复数)祝贺,庆贺 </string>
+		<key>question</key>
+		<string>congratulation</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>conj 与...不一样</string>
+		<key>question</key>
+		<string>not as/so...as</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 相当</string>
+		<key>question</key>
+		<string>rather</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n扬声器,扩音器</string>
+		<key>question</key>
+		<string>loudspeaker</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 结果</string>
+		<key>question</key>
+		<string>result</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 跳舞</string>
+		<key>question</key>
+		<string>dance</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 校长</string>
+		<key>question</key>
+		<string>headmaster</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 轮流</string>
+		<key>question</key>
+		<string>take turns  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 尽最大努力,尽力</string>
+		<key>question</key>
+		<string>do one's best </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 人</string>
+		<key>question</key>
+		<string>person</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 迅速,速度</string>
+		<key>question</key>
+		<string>speed</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 思考,思想,想法</string>
+		<key>question</key>
+		<string>thought</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 技术,工艺学</string>
+		<key>question</key>
+		<string>technology</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 畅销货(书) </string>
+		<key>question</key>
+		<string>best-seller</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 感兴趣的</string>
+		<key>question</key>
+		<string>interested</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 对..感兴趣</string>
+		<key>question</key>
+		<string>be interested in </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 华盛顿</string>
+		<key>question</key>
+		<string>Washington</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 将来,未来</string>
+		<key>question</key>
+		<string>future</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 将来</string>
+		<key>question</key>
+		<string>in the future </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 大的,(数量)多的</string>
+		<key>question</key>
+		<string>large</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 花(时间,钱),度过</string>
+		<key>question</key>
+		<string>spend</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 不寻常的,非凡的 </string>
+		<key>question</key>
+		<string>unusual</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 最后</string>
+		<key>question</key>
+		<string>in the end </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 算出,制定出</string>
+		<key>question</key>
+		<string>work out </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (电脑)软件</string>
+		<key>question</key>
+		<string>software</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 程序,项目,节目</string>
+		<key>question</key>
+		<string>program(programme)</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 综合性大学</string>
+		<key>question</key>
+		<string>university</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 发展,研制,开发</string>
+		<key>question</key>
+		<string>develop</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (电脑)初学者通用符号指令码</string>
+		<key>question</key>
+		<string>BASIC</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 微型计算机</string>
+		<key>question</key>
+		<string>microcomputer</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 微软公司</string>
+		<key>question</key>
+		<string>Microsoft</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 工具</string>
+		<key>question</key>
+		<string>tool</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 私人的,个人的</string>
+		<key>question</key>
+		<string>personal</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 提高,改善</string>
+		<key>question</key>
+		<string>improve</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 高尔夫球</string>
+		<key>question</key>
+		<string>golf</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 桥牌</string>
+		<key>question</key>
+		<string>bridge</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 高兴的,愉快的</string>
+		<key>question</key>
+		<string>pleased</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 短袖无领汗杉,T恤(杉)</string>
+		<key>question</key>
+		<string>T-shirt</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 疾病</string>
+		<key>question</key>
+		<string>disease</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 百万,百万元</string>
+		<key>question</key>
+		<string>million</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 决定,决心</string>
+		<key>question</key>
+		<string>decide</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 十亿</string>
+		<key>question</key>
+		<string>billion</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 幸运的,侥幸的</string>
+		<key>question</key>
+		<string>lucky</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 不走运的,不幸的</string>
+		<key>question</key>
+		<string>unlucky</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

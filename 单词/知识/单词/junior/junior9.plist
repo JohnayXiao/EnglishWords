@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>prep在(两者)之间 </string>
+		<key>question</key>
+		<string>between</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 高的</string>
+		<key>question</key>
+		<string>tall</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 滑稽的,有趣的</string>
+		<key>question</key>
+		<string>funny</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 特别喜爱的</string>
+		<key>question</key>
+		<string>favourite</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 电子邮件</string>
+		<key>question</key>
+		<string>e-mail</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 讲,说</string>
+		<key>question</key>
+		<string>speak</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 下一个</string>
+		<key>question</key>
+		<string>next</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 学期</string>
+		<key>question</key>
+		<string>term</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v.aux (口语,表示许可或请求)可以,行</string>
+		<key>question</key>
+		<string>could</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 分钟,一会儿</string>
+		<key>question</key>
+		<string>minute</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 星期二</string>
+		<key>question</key>
+		<string>Tuesday</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 二月</string>
+		<key>question</key>
+		<string>February</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num 第十八</string>
+		<key>question</key>
+		<string>eighteenth</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 听</string>
+		<key>question</key>
+		<string>listen</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 小心的;仔细的</string>
+		<key>question</key>
+		<string>careful</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 小心地;仔细地</string>
+		<key>question</key>
+		<string>carefully</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 画;绘制</string>
+		<key>question</key>
+		<string>draw</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v(动词have的单数第三人称)有 </string>
+		<key>question</key>
+		<string>has</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 脸;面孔</string>
+		<key>question</key>
+		<string>face</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 眼睛</string>
+		<key>question</key>
+		<string>eye</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 耳朵</string>
+		<key>question</key>
+		<string>ear</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 腿</string>
+		<key>question</key>
+		<string>leg</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 手</string>
+		<key>question</key>
+		<string>hand</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 长的</string>
+		<key>question</key>
+		<string>long</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 短的;矮的</string>
+		<key>question</key>
+		<string>short</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 嘴</string>
+		<key>question</key>
+		<string>mouth</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 说;讲</string>
+		<key>question</key>
+		<string>say</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (钟表等滴嗒的)声音</string>
+		<key>question</key>
+		<string>tick</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 重的</string>
+		<key>question</key>
+		<string>heavy</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 空的</string>
+		<key>question</key>
+		<string>empty</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 当然</string>
+		<key>question</key>
+		<string>certainly</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 满的</string>
+		<key>question</key>
+		<string>full</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 充满....的</string>
+		<key>question</key>
+		<string>be full (of)</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 携带;搬运;运送</string>
+		<key>question</key>
+		<string>carry</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 太</string>
+		<key>question</key>
+		<string>too</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 这么;那么</string>
+		<key>question</key>
+		<string>so</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string> phr. 听</string>
+		<key>question</key>
+		<string>listen to</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 磁带</string>
+		<key>question</key>
+		<string>tape</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>int 好啦(表示安慰)</string>
+		<key>question</key>
+		<string>there</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 整个;所有的</string>
+		<key>question</key>
+		<string>all</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 篮子</string>
+		<key>question</key>
+		<string>basket</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 瓶</string>
+		<key>question</key>
+		<string>bottle</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 一瓶...</string>
+		<key>question</key>
+		<string>a bottle of</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (水果;蔬菜;肉等的)汁;水汁</string>
+		<key>question</key>
+		<string>juice</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 头;头部</string>
+		<key>question</key>
+		<string>head</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 鼻子</string>
+		<key>question</key>
+		<string>nose</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 头发</string>
+		<key>question</key>
+		<string>hair</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 手臂;胳膊</string>
+		<key>question</key>
+		<string>arm</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 脚(pl.feet)</string>
+		<key>question</key>
+		<string>foot</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 衣柜</string>
+		<key>question</key>
+		<string>wardrobe</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

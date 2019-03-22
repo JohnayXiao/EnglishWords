@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>n 手指</string>
+		<key>question</key>
+		<string>finger</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 地理(学)</string>
+		<key>question</key>
+		<string>geography</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 物理(学)</string>
+		<key>question</key>
+		<string>physics</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 历史(学)</string>
+		<key>question</key>
+		<string>history</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 钥匙</string>
+		<key>question</key>
+		<string>key</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 修理,安装</string>
+		<key>question</key>
+		<string>fix</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n实验室</string>
+		<key>question</key>
+		<string>lab(=laboratory)</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 突然地</string>
+		<key>question</key>
+		<string>suddenly</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 光碟,影碟 </string>
+		<key>question</key>
+		<string>DVD</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 及时</string>
+		<key>question</key>
+		<string>in time  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 往..走去</string>
+		<key>question</key>
+		<string>make one's way to </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 标记,符号,痕迹</string>
+		<key>question</key>
+		<string>sign</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 迷途的,丢失的</string>
+		<key>question</key>
+		<string>lost</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 迷失(道路)</string>
+		<key>question</key>
+		<string>be/get lost </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 正在那时</string>
+		<key>question</key>
+		<string>just then </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 首先,第一</string>
+		<key>question</key>
+		<string>first of all </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 主要的</string>
+		<key>question</key>
+		<string>main</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 走错路</string>
+		<key>question</key>
+		<string>go wrong  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 打,击中,撞</string>
+		<key>question</key>
+		<string>hit</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 嘈杂声,响声</string>
+		<key>question</key>
+		<string>noise</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 吵闹</string>
+		<key>question</key>
+		<string>make a noise </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 妨碍,打扰</string>
+		<key>question</key>
+		<string>disturb</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 乘客,旅客</string>
+		<key>question</key>
+		<string>passenger</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 上(车)</string>
+		<key>question</key>
+		<string>get on  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 下来,从...下来</string>
+		<key>question</key>
+		<string>get off  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 推,挤</string>
+		<key>question</key>
+		<string>push</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 站(在)队(里)</string>
+		<key>question</key>
+		<string>stand in line </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (依次轮流的)顺序</string>
+		<key>question</key>
+		<string>turn</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 必需的,必要的 </string>
+		<key>question</key>
+		<string>necessary</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 等候室,候诊(车,机)室</string>
+		<key>question</key>
+		<string>waiting room</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n(按次序等待的人,车等的)队,行列</string>
+		<key>question</key>
+		<string>queue</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 跳跃者</string>
+		<key>question</key>
+		<string>jumper</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 不按次序排队的人</string>
+		<key>question</key>
+		<string>queue jumper</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 病人</string>
+		<key>question</key>
+		<string>patient</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr.在...的最前</string>
+		<key>question</key>
+		<string>at the head of </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 参观者,访问者</string>
+		<key>question</key>
+		<string>visitor</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 居住</string>
+		<key>question</key>
+		<string>live</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 膝盖</string>
+		<key>question</key>
+		<string>knee</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 使受伤,痛</string>
+		<key>question</key>
+		<string>hurt</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 嘲笑</string>
+		<key>question</key>
+		<string>laugh at  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 错误</string>
+		<key>question</key>
+		<string>mistake</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 安静的,平静的</string>
+		<key>question</key>
+		<string>quiet</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 安静地,平静地</string>
+		<key>question</key>
+		<string>quietly</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 阅览室</string>
+		<key>question</key>
+		<string>reading room</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 独自的,单独的</string>
+		<key>question</key>
+		<string>alone</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; adj 塑料(的)</string>
+		<key>question</key>
+		<string>plastic</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr.乱丢,抛散</string>
+		<key>question</key>
+		<string>throw about </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 变化,变更,改变</string>
+		<key>question</key>
+		<string>change</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 过得愉快</string>
+		<key>question</key>
+		<string>have a good time </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 事实,实际</string>
+		<key>question</key>
+		<string>fact</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

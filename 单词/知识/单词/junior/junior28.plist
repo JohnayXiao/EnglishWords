@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>phr. 实际上</string>
+		<key>question</key>
+		<string>in fact  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 在半夜</string>
+		<key>question</key>
+		<string>at midnight </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 到达,抵达某地</string>
+		<key>question</key>
+		<string>arrive</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 打电话给(某人)</string>
+		<key>question</key>
+		<string>telephone</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 抱怨,发牢骚</string>
+		<key>question</key>
+		<string>complain</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 争吵</string>
+		<key>question</key>
+		<string>quarrel</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr.(和某人)吵架 </string>
+		<key>question</key>
+		<string>quarrel with</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 惊奇,惊讶</string>
+		<key>question</key>
+		<string>surprise</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 警察(局)</string>
+		<key>question</key>
+		<string>police</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 说话声,嗓音</string>
+		<key>question</key>
+		<string>voice</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr.过得快乐,玩得痛快 </string>
+		<key>question</key>
+		<string>enjoy oneself</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 他们自己</string>
+		<key>question</key>
+		<string>themselves</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 介意,在乎,关心</string>
+		<key>question</key>
+		<string>care</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 在途中,半路上 </string>
+		<key>question</key>
+		<string>half-way</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 麻烦,烦恼</string>
+		<key>question</key>
+		<string>trouble</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 头痛</string>
+		<key>question</key>
+		<string>headache</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. (患)头痛</string>
+		<key>question</key>
+		<string>have a headache </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v &amp;n 咳嗽</string>
+		<key>question</key>
+		<string>cough</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. (患)咳嗽</string>
+		<key>question</key>
+		<string>have a cough </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj可怕的,感到极不舒服的</string>
+		<key>question</key>
+		<string>terrible</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 严重的,严肃</string>
+		<key>question</key>
+		<string>serious</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 疼痛,疼</string>
+		<key>question</key>
+		<string>pain</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v梦,梦想 做梦,向往</string>
+		<key>question</key>
+		<string>dream</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 最坏的,最恶劣的</string>
+		<key>question</key>
+		<string>worst</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v (使)醒来</string>
+		<key>question</key>
+		<string>wake</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 醒来,唤醒</string>
+		<key>question</key>
+		<string>wake up </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string> conj 一...就</string>
+		<key>question</key>
+		<string>as soon as</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 睡着的,熟睡的</string>
+		<key>question</key>
+		<string>asleep</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 睡觉,入睡</string>
+		<key>question</key>
+		<string>fall asleep </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v 植物 种植</string>
+		<key>question</key>
+		<string>plant</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 暴风雨</string>
+		<key>question</key>
+		<string>storm</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 阻止...做 </string>
+		<key>question</key>
+		<string>stop...from </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 困难的,难的</string>
+		<key>question</key>
+		<string>difficult</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 药丸,药片</string>
+		<key>question</key>
+		<string>pill</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 清醒的</string>
+		<key>question</key>
+		<string>awake</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 醒着的</string>
+		<key>question</key>
+		<string>be awake </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 放松,轻松</string>
+		<key>question</key>
+		<string>relax</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 再三地,一再地,反复地</string>
+		<key>question</key>
+		<string>again and again </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 发怒的,生气的</string>
+		<key>question</key>
+		<string>angry</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 硬的</string>
+		<key>question</key>
+		<string>hard</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 闻,嗅,散发(气味)</string>
+		<key>question</key>
+		<string>smell</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 有钱的,富裕的,丰富的</string>
+		<key>question</key>
+		<string>rich</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 变得,变成,成为</string>
+		<key>question</key>
+		<string>become</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 代替,顶替</string>
+		<key>question</key>
+		<string>instead</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 代替</string>
+		<key>question</key>
+		<string>instead of  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. (仔细)检查</string>
+		<key>question</key>
+		<string>look over </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 足够的,充分的</string>
+		<key>question</key>
+		<string>enough</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 做运动</string>
+		<key>question</key>
+		<string>take exercise </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 肥胖的</string>
+		<key>question</key>
+		<string>fat</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 瘦的,薄的</string>
+		<key>question</key>
+		<string>thin</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

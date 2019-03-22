@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>去购物</string>
+		<key>question</key>
+		<string>go shopping</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>直着走</string>
+		<key>question</key>
+		<string>go straight on</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>去游泳</string>
+		<key>question</key>
+		<string>go swimming</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>上床睡觉</string>
+		<key>question</key>
+		<string>go to bed</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>上学</string>
+		<key>question</key>
+		<string>go to school</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>上班</string>
+		<key>question</key>
+		<string>go to work</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>舞龙</string>
+		<key>question</key>
+		<string>dragon dance</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>擅长</string>
+		<key>question</key>
+		<string>good at</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>晚安</string>
+		<key>question</key>
+		<string>good night</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>吃早餐</string>
+		<key>question</key>
+		<string>have breakfast</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>吃午餐</string>
+		<key>question</key>
+		<string>have lunch</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>不得不</string>
+		<key>question</key>
+		<string>have to</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>举起</string>
+		<key>question</key>
+		<string>hold up</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>几岁</string>
+		<key>question</key>
+		<string>how  old </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>多少</string>
+		<key>question</key>
+		<string>how many</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>赶快</string>
+		<key>question</key>
+		<string>hurry up</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>事实上</string>
+		<key>question</key>
+		<string>in fact</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>在……的前面</string>
+		<key>question</key>
+		<string>in front of</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>敲击</string>
+		<key>question</key>
+		<string>knock on</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>照看，照管</string>
+		<key>question</key>
+		<string>look after</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>很多，许多</string>
+		<key>question</key>
+		<string>lots of</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>中学</string>
+		<key>question</key>
+		<string>middle school</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>（复）早操</string>
+		<key>question</key>
+		<string>morning exercises</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>在……旁边</string>
+		<key>question</key>
+		<string>next to</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>很高兴见到你</string>
+		<key>question</key>
+		<string>Nice to meet you.</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>没有人</string>
+		<key>question</key>
+		<string>no one</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>当然</string>
+		<key>question</key>
+		<string>of course</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>度假</string>
+		<key>question</key>
+		<string>on holiday</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>独立地</string>
+		<key>question</key>
+		<string>on one's own</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>从前</string>
+		<key>question</key>
+		<string>once upon a time</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>在那边</string>
+		<key>question</key>
+		<string>over there</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>穿上</string>
+		<key>question</key>
+		<string>put on</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>学校电视台</string>
+		<key>question</key>
+		<string>School TV</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>购物蓝</string>
+		<key>question</key>
+		<string>shopping basket</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>拿走</string>
+		<key>question</key>
+		<string>take off</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>整理</string>
+		<key>question</key>
+		<string>tidy up</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>看电视</string>
+		<key>question</key>
+		<string>watch TV</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>湖西路</string>
+		<key>question</key>
+		<string>West Lake Road</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>一（个、件）</string>
+		<key>question</key>
+		<string>a</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>关于</string>
+		<key>question</key>
+		<string>about</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>在……上方</string>
+		<key>question</key>
+		<string>above</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>地址</string>
+		<key>question</key>
+		<string>address</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>冒险</string>
+		<key>question</key>
+		<string>adventure</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>在……之后</string>
+		<key>question</key>
+		<string>after</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>再次、又</string>
+		<key>question</key>
+		<string>again</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>空气</string>
+		<key>question</key>
+		<string>air</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>全部的</string>
+		<key>question</key>
+		<string>all</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>单独的，孤独的</string>
+		<key>question</key>
+		<string>alone</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>也</string>
+		<key>question</key>
+		<string>also</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>总是</string>
+		<key>question</key>
+		<string>always</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

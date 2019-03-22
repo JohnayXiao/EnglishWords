@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>v 拥挤</string>
+		<key>question</key>
+		<string>crow</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 设想,想像</string>
+		<key>question</key>
+		<string>imagine</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>conj 当..时候,和..同时</string>
+		<key>question</key>
+		<string>while</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 修理,修补</string>
+		<key>question</key>
+		<string>repair</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v 驾驶,掌舵</string>
+		<key>question</key>
+		<string>steer</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 驾驶盘</string>
+		<key>question</key>
+		<string>steering wheel</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 潜入(水中),跳水</string>
+		<key>question</key>
+		<string>dive</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 潜入水中的人,潜水员</string>
+		<key>question</key>
+		<string>diver</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 立刻,马上</string>
+		<key>question</key>
+		<string>at once </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj(人工呼吸)口对口的 </string>
+		<key>question</key>
+		<string>mouth-to-mouth</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 呼吸</string>
+		<key>question</key>
+		<string>breathe</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 苏醒,恢复知觉</string>
+		<key>question</key>
+		<string>come to oneself </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 抢劫</string>
+		<key>question</key>
+		<string>rob</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 辛勤工作的,用功的 </string>
+		<key>question</key>
+		<string>hard-working</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 艺术,艺术品</string>
+		<key>question</key>
+		<string>art</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 此刻</string>
+		<key>question</key>
+		<string>at the moment </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 泰坦尼克(船名)</string>
+		<key>question</key>
+		<string>Titanic</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 使开始,安置</string>
+		<key>question</key>
+		<string>set</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 出发,动身,起初</string>
+		<key>question</key>
+		<string>set off  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 愉快的,快乐的</string>
+		<key>question</key>
+		<string>pleasant</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 冰山</string>
+		<key>question</key>
+		<string>iceberg</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 到处,处处</string>
+		<key>question</key>
+		<string>here and there </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 值班,守望</string>
+		<key>question</key>
+		<string>on watch </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 留神,注意</string>
+		<key>question</key>
+		<string>look out </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 前方,正对面</string>
+		<key>question</key>
+		<string>in front </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 洞,孔,坑</string>
+		<key>question</key>
+		<string>hole</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 下沉,沉没</string>
+		<key>question</key>
+		<string>sink</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 生命,生活</string>
+		<key>question</key>
+		<string>life</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 救生船(艇)</string>
+		<key>question</key>
+		<string>lifeboat</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 给..腾出地方</string>
+		<key>question</key>
+		<string>make room for </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr.坐某人的座位,代替某人的职位</string>
+		<key>question</key>
+		<string>take one's place </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 感激的,感谢的</string>
+		<key>question</key>
+		<string>thankful</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 波士顿(美国马萨诸塞州的首府)</string>
+		<key>question</key>
+		<string>Boston</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 战争</string>
+		<key>question</key>
+		<string>war</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 信息,情报</string>
+		<key>question</key>
+		<string>information</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 喧闹的,嘈杂的</string>
+		<key>question</key>
+		<string>noisy</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 企鹅</string>
+		<key>question</key>
+		<string>penguin</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 粉红色的,桃红色的</string>
+		<key>question</key>
+		<string>pink</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 贝类,甲壳虫</string>
+		<key>question</key>
+		<string>shellfish</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 下蛋,产蛋</string>
+		<key>question</key>
+		<string>lay</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 漂亮的,美丽的</string>
+		<key>question</key>
+		<string>pretty</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 脚趾</string>
+		<key>question</key>
+		<string>toe</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 磨,擦</string>
+		<key>question</key>
+		<string>rub</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; adj 人(的),人类(的)</string>
+		<key>question</key>
+		<string>human</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 激光唱机</string>
+		<key>question</key>
+		<string>CD player </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp; pron 几个；若干</string>
+		<key>question</key>
+		<string>several</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>(pl. shelves)n 架子；搁板</string>
+		<key>question</key>
+		<string>shelf</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 已经</string>
+		<key>question</key>
+		<string>already</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 过去常常</string>
+		<key>question</key>
+		<string>used to </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 关于</string>
+		<key>question</key>
+		<string>on</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>n 中学</string>
+		<key>question</key>
+		<string>middle school</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>int 喔,那么,好吧</string>
+		<key>question</key>
+		<string>well</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 传真</string>
+		<key>question</key>
+		<string>fax</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 电话,电话机</string>
+		<key>question</key>
+		<string>phone</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 身份征 </string>
+		<key>question</key>
+		<string>ID</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 警察</string>
+		<key>question</key>
+		<string>policeman</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 问</string>
+		<key>question</key>
+		<string>ask</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (用于尊称)先生,阁下</string>
+		<key>question</key>
+		<string>sir</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv(用于疑问,征询等)什么,是吗</string>
+		<key>question</key>
+		<string>yes</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 执照,许可证</string>
+		<key>question</key>
+		<string>licence</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 看,观看</string>
+		<key>question</key>
+		<string>look at</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>int (表示惊讶等)哎呀</string>
+		<key>question</key>
+		<string>dear</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 看见,看到</string>
+		<key>question</key>
+		<string>see</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>I will 的缩写形式</string>
+		<key>question</key>
+		<string>I'll</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v.aux 将,会,要</string>
+		<key>question</key>
+		<string>will</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 拿到,带到</string>
+		<key>question</key>
+		<string>take</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 地址</string>
+		<key>question</key>
+		<string>address</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 年龄</string>
+		<key>question</key>
+		<string>age</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 高兴的,乐意的</string>
+		<key>question</key>
+		<string>glad</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>int(表示惊讶,不耐烦,恼怒等) 嗨</string>
+		<key>question</key>
+		<string>why</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v (forget 的过去时)忘记</string>
+		<key>question</key>
+		<string>forgot</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 现在</string>
+		<key>question</key>
+		<string>now</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 中国</string>
+		<key>question</key>
+		<string>China</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>conj 或者,还是</string>
+		<key>question</key>
+		<string>or</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v &amp;n 工作</string>
+		<key>question</key>
+		<string>work</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>go的单数第三人称现在时 </string>
+		<key>question</key>
+		<string>goes</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 家,家庭</string>
+		<key>question</key>
+		<string>family</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 家谱</string>
+		<key>question</key>
+		<string>family tree</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (外)祖母</string>
+		<key>question</key>
+		<string>grandmother</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (口语)奶奶,外婆</string>
+		<key>question</key>
+		<string>grandma</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (外)祖父</string>
+		<key>question</key>
+		<string>grandfather</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (口语)爷爷,外公</string>
+		<key>question</key>
+		<string>grandpa</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (口语)爸爸,爹爹</string>
+		<key>question</key>
+		<string>dad</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 妻子</string>
+		<key>question</key>
+		<string>wife</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 丈夫</string>
+		<key>question</key>
+		<string>husband</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 女儿</string>
+		<key>question</key>
+		<string>daughter</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 儿子</string>
+		<key>question</key>
+		<string>son</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 父(母)亲</string>
+		<key>question</key>
+		<string>parent</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 父母亲,双亲</string>
+		<key>question</key>
+		<string>parents</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 大的</string>
+		<key>question</key>
+		<string>big</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 英格兰</string>
+		<key>question</key>
+		<string>England</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 姨母,舅母,姑母,伯母,婶母</string>
+		<key>question</key>
+		<string>aunt</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 叔,伯,舅,姨父,姑父</string>
+		<key>question</key>
+		<string>uncle</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 下午,午后</string>
+		<key>question</key>
+		<string>afternoon</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 做,干,行动</string>
+		<key>question</key>
+		<string>do</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>你好!</string>
+		<key>question</key>
+		<string>How do you do ?</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 座位</string>
+		<key>question</key>
+		<string>seat</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>坐下,就坐</string>
+		<key>question</key>
+		<string>have a seat</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 像,跟...一样</string>
+		<key>question</key>
+		<string>like</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 看起来像</string>
+		<key>question</key>
+		<string>look like</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

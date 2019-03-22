@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>v 参观,访问,拜访</string>
+		<key>question</key>
+		<string>visit</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 以前</string>
+		<key>question</key>
+		<string>ago</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 前天</string>
+		<key>question</key>
+		<string>the day before yesterday </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 喜欢,享受...乐趣</string>
+		<key>question</key>
+		<string>enjoy</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 世界</string>
+		<key>question</key>
+		<string>world</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 同时</string>
+		<key>question</key>
+		<string>at the same time </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 刚才</string>
+		<key>question</key>
+		<string>a moment ago </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 不久以前,刚才</string>
+		<key>question</key>
+		<string>just now </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v 答复,回答</string>
+		<key>question</key>
+		<string>reply</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 顺便说,顺便问一下</string>
+		<key>question</key>
+		<string>by the way </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 比赛,竞赛</string>
+		<key>question</key>
+		<string>match</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 冷的,寒冷的</string>
+		<key>question</key>
+		<string>cold</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 驾驶</string>
+		<key>question</key>
+		<string>drive</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 计划</string>
+		<key>question</key>
+		<string>plan</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 日记</string>
+		<key>question</key>
+		<string>diary</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 打电话</string>
+		<key>question</key>
+		<string>make telephone calls </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 外出,到外面</string>
+		<key>question</key>
+		<string>go out </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 印度</string>
+		<key>question</key>
+		<string>India</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 动词go的过去式</string>
+		<key>question</key>
+		<string>went</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 下雨</string>
+		<key>question</key>
+		<string>rain</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 动词rain的过去式 </string>
+		<key>question</key>
+		<string>rained</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 记忆力,存储器</string>
+		<key>question</key>
+		<string>memory</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 打包,打行李</string>
+		<key>question</key>
+		<string>pack</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 每件事,每样东西,一切</string>
+		<key>question</key>
+		<string>everything</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 伞,雨伞</string>
+		<key>question</key>
+		<string>umbrella</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 干的,干燥的</string>
+		<key>question</key>
+		<string>dry</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 报纸</string>
+		<key>question</key>
+		<string>newspaper</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 纸,报纸</string>
+		<key>question</key>
+		<string>paper</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 晨报</string>
+		<key>question</key>
+		<string>morning paper</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 早餐时</string>
+		<key>question</key>
+		<string>at breakfast </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 告别,告辞</string>
+		<key>question</key>
+		<string>say goodbye to </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 有用的,有益的</string>
+		<key>question</key>
+		<string>useful</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 科学家</string>
+		<key>question</key>
+		<string>scientist</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 发明,创造</string>
+		<key>question</key>
+		<string>invent</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr.一直,始终,老是</string>
+		<key>question</key>
+		<string>all the time  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 总是,一直,经常</string>
+		<key>question</key>
+		<string>always</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv到处,无论哪里</string>
+		<key>question</key>
+		<string>everywhere</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v(动词bear的过去分词)出生</string>
+		<key>question</key>
+		<string>born</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 出生于</string>
+		<key>question</key>
+		<string>be born </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 五月</string>
+		<key>question</key>
+		<string>May</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 移动,搬动,搬家</string>
+		<key>question</key>
+		<string>move</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 懂得,理解</string>
+		<key>question</key>
+		<string>understand</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj(口语)不好不坏的,马马虎虎</string>
+		<key>question</key>
+		<string>so-so</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 起先,首先</string>
+		<key>question</key>
+		<string>at first </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 大部分,大多数</string>
+		<key>question</key>
+		<string>most</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 运气,好运</string>
+		<key>question</key>
+		<string>luck</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 四月</string>
+		<key>question</key>
+		<string>April</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 讨厌,不喜欢,憎恨</string>
+		<key>question</key>
+		<string>hate</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 飞,飞行,乘飞机旅行</string>
+		<key>question</key>
+		<string>fly</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 油画,水彩画</string>
+		<key>question</key>
+		<string>painting</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

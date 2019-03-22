@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>plistName</key>
+		<string>primary</string>
+		<key>imgUrl</key>
+		<string>008</string>
+		<key>title</key>
+		<string>Primary School Words</string>
+		<key>brief</key>
+		<string></string>
+		<key>time</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>plistName</key>
+		<string>junior</string>
+		<key>imgUrl</key>
+		<string>008</string>
+		<key>title</key>
+		<string>Junior High School Words</string>
+		<key>brief</key>
+		<string></string>
+		<key>time</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>plistName</key>
+		<string>senior</string>
+		<key>imgUrl</key>
+		<string>008</string>
+		<key>title</key>
+		<string>Senior High School Words</string>
+		<key>brief</key>
+		<string></string>
+		<key>time</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>plistName</key>
+		<string>CETFour</string>
+		<key>imgUrl</key>
+		<string>008</string>
+		<key>title</key>
+		<string>CET-4 Words</string>
+		<key>brief</key>
+		<string></string>
+		<key>time</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>plistName</key>
+		<string>CETSix</string>
+		<key>imgUrl</key>
+		<string>008</string>
+		<key>title</key>
+		<string>CET-6 Words</string>
+		<key>brief</key>
+		<string></string>
+		<key>time</key>
+		<string>0</string>
+	</dict>
+</array>
+</plist>

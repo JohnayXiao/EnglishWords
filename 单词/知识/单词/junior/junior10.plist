@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>n 日;天</string>
+		<key>question</key>
+		<string>day</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 从.....起</string>
+		<key>question</key>
+		<string>from</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 美国</string>
+		<key>question</key>
+		<string>America</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 动物园</string>
+		<key>question</key>
+		<string>zoo</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 离开</string>
+		<key>question</key>
+		<string>away</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 把.....什么收起来(放好)</string>
+		<key>question</key>
+		<string>put away</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 在外</string>
+		<key>question</key>
+		<string>out</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 出来</string>
+		<key>question</key>
+		<string>come out</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 短袜</string>
+		<key>question</key>
+		<string>sock</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 别的;其他的</string>
+		<key>question</key>
+		<string>other</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 不正确的;错误的</string>
+		<key>question</key>
+		<string>wrong</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 弄坏了的</string>
+		<key>question</key>
+		<string>broken</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 这样;如此</string>
+		<key>question</key>
+		<string>so</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 捉;抓住</string>
+		<key>question</key>
+		<string>catch</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 下来;落下</string>
+		<key>question</key>
+		<string>get down</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 他(宾格)</string>
+		<key>question</key>
+		<string>him</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 正好;恰好;正确</string>
+		<key>question</key>
+		<string>right</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 善良;美德</string>
+		<key>question</key>
+		<string>goodness</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 飞机</string>
+		<key>question</key>
+		<string>plane</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 对....;关于</string>
+		<key>question</key>
+		<string>with</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 修补;修理</string>
+		<key>question</key>
+		<string>mend</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (pl.knives) 小刀</string>
+		<key>question</key>
+		<string>knife</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 机器人</string>
+		<key>question</key>
+		<string>robot</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 身体</string>
+		<key>question</key>
+		<string>body</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v(动词break的过去时)折断;打破</string>
+		<key>question</key>
+		<string>broke</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 丢失的;丢去的</string>
+		<key>question</key>
+		<string>lost</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 告诉;讲述</string>
+		<key>question</key>
+		<string>tell</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 球形的 ;圆的</string>
+		<key>question</key>
+		<string>round</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (口语)妈妈</string>
+		<key>question</key>
+		<string>mummy</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 愉快;高兴</string>
+		<key>question</key>
+		<string>pleasure</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 食物</string>
+		<key>question</key>
+		<string>food</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v 饮料 喝</string>
+		<key>question</key>
+		<string>drink</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 饥饿的</string>
+		<key>question</key>
+		<string>hungry</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 口渴的</string>
+		<key>question</key>
+		<string>thirsty</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v 水;浇水</string>
+		<key>question</key>
+		<string>water</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 吃</string>
+		<key>question</key>
+		<string>eat</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 米饭;大米</string>
+		<key>question</key>
+		<string>rice</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 面包</string>
+		<key>question</key>
+		<string>bread</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 肉</string>
+		<key>question</key>
+		<string>meat</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 茶</string>
+		<key>question</key>
+		<string>tea</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 牛奶</string>
+		<key>question</key>
+		<string>milk</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 玻璃杯</string>
+		<key>question</key>
+		<string>glass</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 一(玻璃)杯</string>
+		<key>question</key>
+		<string>a glass of </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr.想要(语气婉转地表示请求等) </string>
+		<key>question</key>
+		<string>would like </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pro某事(物)某东西</string>
+		<key>question</key>
+		<string>something</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 粥;稀饭</string>
+		<key>question</key>
+		<string>porridge</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 鱼</string>
+		<key>question</key>
+		<string>fish</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 饺子</string>
+		<key>question</key>
+		<string>dumpling</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 水果</string>
+		<key>question</key>
+		<string>fruit</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 一张(片;张)</string>
+		<key>question</key>
+		<string>piece</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

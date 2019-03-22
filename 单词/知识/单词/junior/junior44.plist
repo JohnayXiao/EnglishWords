@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>adj 粗鲁的，激烈的</string>
+		<key>question</key>
+		<string>rough</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 项链</string>
+		<key>question</key>
+		<string>necklace</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 偷，窃取</string>
+		<key>question</key>
+		<string>steal(stole,steal的过去式;stolensteal的过去分词)</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 举手</string>
+		<key>question</key>
+		<string>hands up </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 射击，射死 </string>
+		<key>question</key>
+		<string>shoot(shot,shoot的过去式和过去分词)</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 侦探</string>
+		<key>question</key>
+		<string>detective</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 警官，监督员</string>
+		<key>question</key>
+		<string>inspector</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 贼</string>
+		<key>question</key>
+		<string>thief</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 注意，通知</string>
+		<key>question</key>
+		<string>notice</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 强盗，盗贼</string>
+		<key>question</key>
+		<string>robber</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 下来，落</string>
+		<key>question</key>
+		<string>come down  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v 逃亡，逃走，逃避</string>
+		<key>question</key>
+		<string>escape</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 受害者，受骗者</string>
+		<key>question</key>
+		<string>victim</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 会话，谈话</string>
+		<key>question</key>
+		<string>conversation</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 抢劫案，抢劫</string>
+		<key>question</key>
+		<string>robbery</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 描述，描写</string>
+		<key>question</key>
+		<string>description</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 借口，托词 </string>
+		<key>question</key>
+		<string>excuse</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 陡峭的，险峻的</string>
+		<key>question</key>
+		<string>steep</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 英国人的</string>
+		<key>question</key>
+		<string>British</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 有雾的，雾大的</string>
+		<key>question</key>
+		<string>misty</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 雾</string>
+		<key>question</key>
+		<string>mist</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 惊奇，惊讶（对. . . . ）感到怀 </string>
+		<key>question</key>
+		<string>wonder</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 俱乐部，社团</string>
+		<key>question</key>
+		<string>club</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 专家，内行</string>
+		<key>question</key>
+		<string>expert</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 使…陷入困境，设陷阱捕捉</string>
+		<key>question</key>
+		<string>trap</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 帐篷</string>
+		<key>question</key>
+		<string>tent</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>(froze , frozen ) v 结冰，凝结 </string>
+		<key>question</key>
+		<string>freeze</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 活着的</string>
+		<key>question</key>
+		<string>alive</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 在任何时候</string>
+		<key>question</key>
+		<string>anytime</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 进步，提高，前进</string>
+		<key>question</key>
+		<string>progress</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 自尊，自重</string>
+		<key>question</key>
+		<string>self-respect</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 本质的，主要的，必需的</string>
+		<key>question</key>
+		<string>essential</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>n 帽子(一般指有边的帽子)</string>
+		<key>question</key>
+		<string>hat</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 医生</string>
+		<key>question</key>
+		<string>doctor</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 工人</string>
+		<key>question</key>
+		<string>worker</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 猜</string>
+		<key>question</key>
+		<string>guess</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 在...后面</string>
+		<key>question</key>
+		<string>behind</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 椅子 </string>
+		<key>question</key>
+		<string>chair</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 球</string>
+		<key>question</key>
+		<string>ball</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 在...下面</string>
+		<key>question</key>
+		<string>under</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (室内)地,地板</string>
+		<key>question</key>
+		<string>floor</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>cannot 的缩写形式</string>
+		<key>question</key>
+		<string>can't</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 照片</string>
+		<key>question</key>
+		<string>photo</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 墙</string>
+		<key>question</key>
+		<string>wall</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 鞋</string>
+		<key>question</key>
+		<string>shoe</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 在...附近</string>
+		<key>question</key>
+		<string>near</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 门</string>
+		<key>question</key>
+		<string>door</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep ...的</string>
+		<key>question</key>
+		<string>of</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 教室</string>
+		<key>question</key>
+		<string>classroom</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 回答</string>
+		<key>question</key>
+		<string>answer</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 黑板</string>
+		<key>question</key>
+		<string>blackboard</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 一些,若干</string>
+		<key>question</key>
+		<string>some</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 书包</string>
+		<key>question</key>
+		<string>schoolbag</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 花</string>
+		<key>question</key>
+		<string>flower</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 找到,发现</string>
+		<key>question</key>
+		<string>find</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 扫帚</string>
+		<key>question</key>
+		<string>broom</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 窗</string>
+		<key>question</key>
+		<string>window</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 雨衣</string>
+		<key>question</key>
+		<string>raincoat</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 便帽,军帽</string>
+		<key>question</key>
+		<string>cap</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 足球</string>
+		<key>question</key>
+		<string>football</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 桌子</string>
+		<key>question</key>
+		<string>table</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 香港</string>
+		<key>question</key>
+		<string>Hong Kong</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 澳门</string>
+		<key>question</key>
+		<string>Macao</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 特别行政区 </string>
+		<key>question</key>
+		<string>SAR</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>表示存在,有..,作引导词</string>
+		<key>question</key>
+		<string>there</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>there is 的缩写形式</string>
+		<key>question</key>
+		<string>there's</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v&amp;n 锁</string>
+		<key>question</key>
+		<string>lock</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 许多的,多的</string>
+		<key>question</key>
+		<string>many</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 东西,事情</string>
+		<key>question</key>
+		<string>thing</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v.aux 必须,应当</string>
+		<key>question</key>
+		<string>must</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 打开</string>
+		<key>question</key>
+		<string>open</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 得到,获得</string>
+		<key>question</key>
+		<string>get</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 帮助</string>
+		<key>question</key>
+		<string>help</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 钱包</string>
+		<key>question</key>
+		<string>purse</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 钱,货币</string>
+		<key>question</key>
+		<string>money</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v (使)担忧</string>
+		<key>question</key>
+		<string>worry</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>让我想想</string>
+		<key>question</key>
+		<string>Let me see</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num 五十</string>
+		<key>question</key>
+		<string>fifty</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 颜色</string>
+		<key>question</key>
+		<string>colour</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 黑色的</string>
+		<key>question</key>
+		<string>black</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 房子</string>
+		<key>question</key>
+		<string>house</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 小的</string>
+		<key>question</key>
+		<string>small</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

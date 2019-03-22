@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>n 男孩</string>
+		<key>question</key>
+		<string>boy</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 女孩</string>
+		<key>question</key>
+		<string>girl</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 妇女,女人</string>
+		<key>question</key>
+		<string>woman</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 男人,人</string>
+		<key>question</key>
+		<string>man</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 猫</string>
+		<key>question</key>
+		<string>cat</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 他的</string>
+		<key>question</key>
+		<string>his</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 教师</string>
+		<key>question</key>
+		<string>teacher</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 她的</string>
+		<key>question</key>
+		<string>her</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 每人,人人</string>
+		<key>question</key>
+		<string>everyone</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 这里,这儿</string>
+		<key>question</key>
+		<string>here</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv &amp;n 今天</string>
+		<key>question</key>
+		<string>today</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 在</string>
+		<key>question</key>
+		<string>at</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 学校</string>
+		<key>question</key>
+		<string>school</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 在学校</string>
+		<key>question</key>
+		<string>at school</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 对不起,抱歉的</string>
+		<key>question</key>
+		<string>sorry</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 在哪里</string>
+		<key>question</key>
+		<string>where</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 家</string>
+		<key>question</key>
+		<string>home</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 在家</string>
+		<key>question</key>
+		<string>at home</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>你(身体)好吗?</string>
+		<key>question</key>
+		<string>How are you？</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj (身体)好的</string>
+		<key>question</key>
+		<string>fine</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 谢谢(只用复数)</string>
+		<key>question</key>
+		<string>thanks</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv (口语)好,对,不错,可以 </string>
+		<key>question</key>
+		<string>OK</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 谢谢</string>
+		<key>question</key>
+		<string>thank</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>int 再见,再会</string>
+		<key>question</key>
+		<string>goodbye</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>int 再见</string>
+		<key>question</key>
+		<string>bye</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 鹦鹉</string>
+		<key>question</key>
+		<string>parrot</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 姐,妹</string>
+		<key>question</key>
+		<string>sister</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 父亲</string>
+		<key>question</key>
+		<string>father</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 母亲</string>
+		<key>question</key>
+		<string>mother</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 盒子,箱子</string>
+		<key>question</key>
+		<string>box</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 原谅</string>
+		<key>question</key>
+		<string>excuse</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 我</string>
+		<key>question</key>
+		<string>me</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>给你</string>
+		<key>question</key>
+		<string>Here you are</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>conj 但是</string>
+		<key>question</key>
+		<string>but</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 这些</string>
+		<key>question</key>
+		<string>these</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 他(她,它)们</string>
+		<key>question</key>
+		<string>they</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 好的</string>
+		<key>question</key>
+		<string>good</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 那些</string>
+		<key>question</key>
+		<string>those</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 船</string>
+		<key>question</key>
+		<string>boat</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 小山</string>
+		<key>question</key>
+		<string>hill</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 树</string>
+		<key>question</key>
+		<string>tree</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 他们(她们,它们)的</string>
+		<key>question</key>
+		<string>their</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 多,很,非常</string>
+		<key>question</key>
+		<string>much</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr.很,非常</string>
+		<key>question</key>
+		<string>very much</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 都,完全</string>
+		<key>question</key>
+		<string>all</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv &amp; adj 对的,正确的</string>
+		<key>question</key>
+		<string>right</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr.好,行,不错</string>
+		<key>question</key>
+		<string>all right</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (口语)妈妈</string>
+		<key>question</key>
+		<string>mum</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 朋友</string>
+		<key>question</key>
+		<string>friend</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 兄,弟</string>
+		<key>question</key>
+		<string>brother</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

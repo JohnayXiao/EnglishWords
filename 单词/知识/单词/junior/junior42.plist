@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>v 下载</string>
+		<key>question</key>
+		<string>download</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 路线，去路</string>
+		<key>question</key>
+		<string>path</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 巴西</string>
+		<key>question</key>
+		<string>Brazil</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 兴奋的，激动的</string>
+		<key>question</key>
+		<string>excited</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 对…感到兴奋</string>
+		<key>question</key>
+		<string>be excited about </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 皮革</string>
+		<key>question</key>
+		<string>leather</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 把…穿旧，磨坏</string>
+		<key>question</key>
+		<string>wear out  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 元，日元</string>
+		<key>question</key>
+		<string>yen</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 试穿（衣服,鞋）,试戴（帽子）</string>
+		<key>question</key>
+		<string>try on </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp; adv 在线，上网</string>
+		<key>question</key>
+		<string>online</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 广告</string>
+		<key>question</key>
+		<string>ad</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 佳能（照相机牌名）</string>
+		<key>question</key>
+		<string>Canon</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 形状，外形</string>
+		<key>question</key>
+		<string>shape</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 决定</string>
+		<key>question</key>
+		<string>decision</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 作出决定</string>
+		<key>question</key>
+		<string>make a decision </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 屏幕</string>
+		<key>question</key>
+		<string>screen</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 表格</string>
+		<key>question</key>
+		<string>form</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 信用</string>
+		<key>question</key>
+		<string>credit</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 信用卡</string>
+		<key>question</key>
+		<string>credit card</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 圆满地,顺利地,成功地</string>
+		<key>question</key>
+		<string>successfully</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 兴趣</string>
+		<key>question</key>
+		<string>interest</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 名胜</string>
+		<key>question</key>
+		<string>a place of interest </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 永远，总是</string>
+		<key>question</key>
+		<string>forever</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v把…借给，借给 </string>
+		<key>question</key>
+		<string>lend(lent,lend的过去式和过去分词)</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 过一遍，仔细检查</string>
+		<key>question</key>
+		<string>go over  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 犯错误</string>
+		<key>question</key>
+		<string>make a mistake  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 一套衣服</string>
+		<key>question</key>
+		<string>suit</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 放下（某物），下车</string>
+		<key>question</key>
+		<string>drop off</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 歌剧</string>
+		<key>question</key>
+		<string>opera</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 京剧</string>
+		<key>question</key>
+		<string>Peking opera</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 人民大会堂 </string>
+		<key>question</key>
+		<string>the Great Hall of the people</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 巨大的</string>
+		<key>question</key>
+		<string>huge</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 故宫博物院</string>
+		<key>question</key>
+		<string>the Palace Museum</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 值得作的</string>
+		<key>question</key>
+		<string>rewarding</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 感激的，感谢的</string>
+		<key>question</key>
+		<string>grateful</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 摆动，摇动（尾巴等）</string>
+		<key>question</key>
+		<string>wag</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 尾巴，尾部</string>
+		<key>question</key>
+		<string>tail</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 孤独的，寂寞的</string>
+		<key>question</key>
+		<string>lonely</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 成就，成功</string>
+		<key>question</key>
+		<string>success</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 苏格兰</string>
+		<key>question</key>
+		<string>Scotland</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 下决心</string>
+		<key>question</key>
+		<string>make up one's mind </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n （口语）兽医</string>
+		<key>question</key>
+		<string>vet</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 主要地，大部分</string>
+		<key>question</key>
+		<string>mostly</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 使（伤、病）痊愈</string>
+		<key>question</key>
+		<string>heal</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 猪</string>
+		<key>question</key>
+		<string>pig</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 教育，培养</string>
+		<key>question</key>
+		<string>education</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 乡下，农村</string>
+		<key>question</key>
+		<string>countryside</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 治疗，对待</string>
+		<key>question</key>
+		<string>treat</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 不久以后</string>
+		<key>question</key>
+		<string>before long  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 看待，当作</string>
+		<key>question</key>
+		<string>regard</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>n 尺寸,大小</string>
+		<key>question</key>
+		<string>size</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 几乎,差不多</string>
+		<key>question</key>
+		<string>almost</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 演讲者,说话者</string>
+		<key>question</key>
+		<string>speaker</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 笑话,玩笑</string>
+		<key>question</key>
+		<string>joke</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 戏弄人,对某人恶作剧</string>
+		<key>question</key>
+		<string>play a joke on </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 丢失,失去,迷失(方向)</string>
+		<key>question</key>
+		<string>lose</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 躲藏</string>
+		<key>question</key>
+		<string>hide</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n(汽车,电车上的)售票员,列车员</string>
+		<key>question</key>
+		<string>conductor</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 检查,核对</string>
+		<key>question</key>
+		<string>check</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 躺,平躺</string>
+		<key>question</key>
+		<string>lie</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 聋的</string>
+		<key>question</key>
+		<string>deaf</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 画家</string>
+		<key>question</key>
+		<string>painter</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 与...相处融洽</string>
+		<key>question</key>
+		<string>get on well with </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 邻居</string>
+		<key>question</key>
+		<string>neighbour</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 曾经</string>
+		<key>question</key>
+		<string>ever</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp; adv (在)楼上,(往)楼上</string>
+		<key>question</key>
+		<string>upstairs</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 脱下(衣,帽,鞋等)</string>
+		<key>question</key>
+		<string>take off </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 长统鞋</string>
+		<key>question</key>
+		<string>boot</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp; adv(在)楼下,(往)楼下</string>
+		<key>question</key>
+		<string>downstairs</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 猛敲,猛撞,砰砰作响</string>
+		<key>question</key>
+		<string>bang</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 对(某人)发脾气</string>
+		<key>question</key>
+		<string>be angry with </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 通常的,平常的</string>
+		<key>question</key>
+		<string>usual</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 像平常一样</string>
+		<key>question</key>
+		<string>as usual  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 声音</string>
+		<key>question</key>
+		<string>sound</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 体育 </string>
+		<key>question</key>
+		<string>PE</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 化学</string>
+		<key>question</key>
+		<string>chemistry</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 扫,扫地</string>
+		<key>question</key>
+		<string>sweep</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 选择,挑选</string>
+		<key>question</key>
+		<string>choose</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 卡车</string>
+		<key>question</key>
+		<string>truck</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 卖者,售货员</string>
+		<key>question</key>
+		<string>seller</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 生物(学)</string>
+		<key>question</key>
+		<string>biology</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 厌倦</string>
+		<key>question</key>
+		<string>be fed up with </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 敲(门,窗等)</string>
+		<key>question</key>
+		<string>knock on </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 拒绝</string>
+		<key>question</key>
+		<string>refuse</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 有礼貌地</string>
+		<key>question</key>
+		<string>politely</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 一对,一双</string>
+		<key>question</key>
+		<string>pair</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 一对,一双</string>
+		<key>question</key>
+		<string>a pair of </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (复数)剪刀</string>
+		<key>question</key>
+		<string>scissors</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (网球,羽毛球等的)球拍</string>
+		<key>question</key>
+		<string>racket</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n摩托车或有发动机的自行车</string>
+		<key>question</key>
+		<string>motorbike</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 复习(功课等)</string>
+		<key>question</key>
+		<string>review</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n&amp;adj俄国的,俄国人(的), 俄语(的)</string>
+		<key>question</key>
+		<string>Russian</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (长篇)小说</string>
+		<key>question</key>
+		<string>novel</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 钱夹,皮夹</string>
+		<key>question</key>
+		<string>wallet</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 地面,土地</string>
+		<key>question</key>
+		<string>ground</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 引起</string>
+		<key>question</key>
+		<string>cause</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 突然地</string>
+		<key>question</key>
+		<string>suddenly</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 好运地,幸运地</string>
+		<key>question</key>
+		<string>luckily</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 看门人,门卫</string>
+		<key>question</key>
+		<string>gatekeeper</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 提到,说起</string>
+		<key>question</key>
+		<string>mention</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

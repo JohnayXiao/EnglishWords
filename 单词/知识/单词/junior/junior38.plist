@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>phr. 实验，尝试</string>
+		<key>question</key>
+		<string>try out  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 小学生，学生</string>
+		<key>question</key>
+		<string>pupil</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 建立，建造，建设</string>
+		<key>question</key>
+		<string>build</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 在…岁时</string>
+		<key>question</key>
+		<string>at the age of </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 印刷，印制</string>
+		<key>question</key>
+		<string>print</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (火车等的)轨道，跑道</string>
+		<key>question</key>
+		<string>track</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 惊恐，吓唬</string>
+		<key>question</key>
+		<string>frighten</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 受惊的，害怕的</string>
+		<key>question</key>
+		<string>frightened</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 冲出去</string>
+		<key>question</key>
+		<string>rush out  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 安全</string>
+		<key>question</key>
+		<string>safety</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 电报</string>
+		<key>question</key>
+		<string>telegraph</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 发明，创造</string>
+		<key>question</key>
+		<string>invention</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 开设，开业，开放</string>
+		<key>question</key>
+		<string>open up  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 一生，终生</string>
+		<key>question</key>
+		<string>lifetime</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 毕业</string>
+		<key>question</key>
+		<string>graduate</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 关小，调低</string>
+		<key>question</key>
+		<string>turn down  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 健康地</string>
+		<key>question</key>
+		<string>healthily</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 清楚地</string>
+		<key>question</key>
+		<string>clearly</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 使沮丧，使失败</string>
+		<key>question</key>
+		<string>frustrate</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 感到灰心丧气的</string>
+		<key>question</key>
+		<string>frustrated</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 惊奇，惊讶,（对...）感到怀疑</string>
+		<key>question</key>
+		<string>wonder</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 有…的价值，值得</string>
+		<key>question</key>
+		<string>worth</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 信心，自信</string>
+		<key>question</key>
+		<string>confidence</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 愉快的；欢乐的</string>
+		<key>question</key>
+		<string>merry</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 装饰，修饰</string>
+		<key>question</key>
+		<string>decorate</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 挂起，举起</string>
+		<key>question</key>
+		<string>put up  </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 天使，守护神</string>
+		<key>question</key>
+		<string>angel</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v &amp;n 环绕，绕行 圆，圈子</string>
+		<key>question</key>
+		<string>circle</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n （节日或重大事件发生的）前夕</string>
+		<key>question</key>
+		<string>eve</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 长统袜</string>
+		<key>question</key>
+		<string>stocking</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 宠爱的动物</string>
+		<key>question</key>
+		<string>pet</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 又，同样地</string>
+		<key>question</key>
+		<string>as well</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 好心的 </string>
+		<key>question</key>
+		<string>kind-hearted</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 烟囱，烟筒</string>
+		<key>question</key>
+		<string>chimney</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 单个的，只有一个的</string>
+		<key>question</key>
+		<string>single</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 以…作根据，基于</string>
+		<key>question</key>
+		<string>base</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 以…（为）根据</string>
+		<key>question</key>
+		<string>base on </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 真正的，真实的</string>
+		<key>question</key>
+		<string>real</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 土耳其</string>
+		<key>question</key>
+		<string>Turkey</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 害羞的，腼腆的</string>
+		<key>question</key>
+		<string>shy</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 吊着，悬挂</string>
+		<key>question</key>
+		<string>hang</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 壁炉</string>
+		<key>question</key>
+		<string>fireplace</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 把…弄干，晒干</string>
+		<key>question</key>
+		<string>dry</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>conj 虽然…，尽管…</string>
+		<key>question</key>
+		<string>though</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>conj 即使…</string>
+		<key>question</key>
+		<string>even though</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 慷慨，豁达</string>
+		<key>question</key>
+		<string>generosity</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 继续存在，继续活着</string>
+		<key>question</key>
+		<string>live on </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 亲属，亲人</string>
+		<key>question</key>
+		<string>relative</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 问候，向（人）打招呼</string>
+		<key>question</key>
+		<string>greet</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 拥抱，紧抱</string>
+		<key>question</key>
+		<string>hug</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>adj重要的,重大的 </string>
+		<key>question</key>
+		<string>important</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 用,使用,运用</string>
+		<key>question</key>
+		<string>use</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n女士(用于婚姻状况不明的女名)</string>
+		<key>question</key>
+		<string>Ms</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep &amp;adv 在..之前,以前</string>
+		<key>question</key>
+		<string>before</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 从来,决不</string>
+		<key>question</key>
+		<string>never</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 刚刚,方才</string>
+		<key>question</key>
+		<string>just</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num &amp;adj 第三的</string>
+		<key>question</key>
+		<string>third</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 害怕的</string>
+		<key>question</key>
+		<string>afraid</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 居住</string>
+		<key>question</key>
+		<string>live</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v 声音,听起来</string>
+		<key>question</key>
+		<string>sound</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 不得不,必须</string>
+		<key>question</key>
+		<string>have to </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 次数</string>
+		<key>question</key>
+		<string>time</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 更,更加</string>
+		<key>question</key>
+		<string>more</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 不再</string>
+		<key>question</key>
+		<string>not...any more </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v &amp;n 笑,大笑,笑声</string>
+		<key>question</key>
+		<string>laugh</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v 浪费,废弃物</string>
+		<key>question</key>
+		<string>waste</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 浪费(白费)时间</string>
+		<key>question</key>
+		<string>a waste of time </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num &amp; adj 第五(的)</string>
+		<key>question</key>
+		<string>fifth</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v 旅游,旅行</string>
+		<key>question</key>
+		<string>trip</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 野外旅游</string>
+		<key>question</key>
+		<string>field trip </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 故乡,家乡</string>
+		<key>question</key>
+		<string>hometown</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 讨论,议论</string>
+		<key>question</key>
+		<string>discuss</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 钓鱼</string>
+		<key>question</key>
+		<string>fish</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 钓鱼</string>
+		<key>question</key>
+		<string>fishing</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 去钓鱼</string>
+		<key>question</key>
+		<string>go fishing </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; adj 东方(的),东部(的)</string>
+		<key>question</key>
+		<string>east</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 同意,赞成</string>
+		<key>question</key>
+		<string>agree</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 划船</string>
+		<key>question</key>
+		<string>boating</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 去划船</string>
+		<key>question</key>
+		<string>go boating </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 也许,大概</string>
+		<key>question</key>
+		<string>maybe</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 山,高山</string>
+		<key>question</key>
+		<string>mountain</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; v 远足,徒步旅行</string>
+		<key>question</key>
+		<string>hike</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 徒步旅行</string>
+		<key>question</key>
+		<string>hiking</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 去徒步旅行</string>
+		<key>question</key>
+		<string>go hiking </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 野餐</string>
+		<key>question</key>
+		<string>picnic</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 后天</string>
+		<key>question</key>
+		<string>the day after tomorrow </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 顶部</string>
+		<key>question</key>
+		<string>top</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 问题,难题</string>
+		<key>question</key>
+		<string>problem</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 快的,迅速的</string>
+		<key>question</key>
+		<string>quick</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 快地,迅速地</string>
+		<key>question</key>
+		<string>quickly</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 开始,着手</string>
+		<key>question</key>
+		<string>start</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. (被...)绊倒</string>
+		<key>question</key>
+		<string>trip over</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 累,疲乏</string>
+		<key>question</key>
+		<string>tired</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 赶快,慌忙</string>
+		<key>question</key>
+		<string>hurry</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 赶快</string>
+		<key>question</key>
+		<string>hurry up </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 捆,(系,栓)紧</string>
+		<key>question</key>
+		<string>tie</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 死亡</string>
+		<key>question</key>
+		<string>die</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 城市</string>
+		<key>question</key>
+		<string>city</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 花费(时间),消耗</string>
+		<key>question</key>
+		<string>take</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num 第八</string>
+		<key>question</key>
+		<string>eighth</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

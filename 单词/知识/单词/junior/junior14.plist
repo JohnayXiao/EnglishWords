@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>adv 不久,一会儿</string>
+		<key>question</key>
+		<string>soon</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 停留(在某处)</string>
+		<key>question</key>
+		<string>stay</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 中学</string>
+		<key>question</key>
+		<string>high school</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 多伦多(加拿大港市)</string>
+		<key>question</key>
+		<string>Toronto</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (中小学的)男学生</string>
+		<key>question</key>
+		<string>schoolboy</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 国家</string>
+		<key>question</key>
+		<string>country</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 交朋友</string>
+		<key>question</key>
+		<string>make friends </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 法国</string>
+		<key>question</key>
+		<string>France</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 课本</string>
+		<key>question</key>
+		<string>textbook</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n(pl.Englishmen)英国(男)人</string>
+		<key>question</key>
+		<string>Englishman</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 澳大利亚人 </string>
+		<key>question</key>
+		<string>Australian</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 加拿大人</string>
+		<key>question</key>
+		<string>Canadian</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 城市</string>
+		<key>question</key>
+		<string>city</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 外国人</string>
+		<key>question</key>
+		<string>foreigner</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 访问,参观,拜访</string>
+		<key>question</key>
+		<string>visit</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 词,单词</string>
+		<key>question</key>
+		<string>word</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 好</string>
+		<key>question</key>
+		<string>well</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 为什么</string>
+		<key>question</key>
+		<string>why</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 说英语的 </string>
+		<key>question</key>
+		<string>English-speaking</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 信</string>
+		<key>question</key>
+		<string>letter</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 热的,辣的</string>
+		<key>question</key>
+		<string>hot</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 热狗(红肠面包)</string>
+		<key>question</key>
+		<string>hot dog</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 一点也不</string>
+		<key>question</key>
+		<string>not...at all </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 不同的</string>
+		<key>question</key>
+		<string>different</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 种,类</string>
+		<key>question</key>
+		<string>kind</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 一种,一类</string>
+		<key>question</key>
+		<string>a kind of </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 每一的,每个的</string>
+		<key>question</key>
+		<string>every</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 一餐,一顿饭</string>
+		<key>question</key>
+		<string>meal</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 面条</string>
+		<key>question</key>
+		<string>noodle</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 蔬菜</string>
+		<key>question</key>
+		<string>vegetable</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 饭馆</string>
+		<key>question</key>
+		<string>restaurant</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 常常</string>
+		<key>question</key>
+		<string>often</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 马铃薯,土豆</string>
+		<key>question</key>
+		<string>potato</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp; adv 好,(身体)健康</string>
+		<key>question</key>
+		<string>well</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 为什么</string>
+		<key>question</key>
+		<string>why</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>conj 因为</string>
+		<key>question</key>
+		<string>because</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 家务劳动</string>
+		<key>question</key>
+		<string>housework</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 机器</string>
+		<key>question</key>
+		<string>machine</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 又,再</string>
+		<key>question</key>
+		<string>again</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 打电话</string>
+		<key>question</key>
+		<string>make phone calls </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 洗,漱洗</string>
+		<key>question</key>
+		<string>wash</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 一道菜,盘,碟</string>
+		<key>question</key>
+		<string>dish</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 电子的</string>
+		<key>question</key>
+		<string>electronic</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 邮政,邮递</string>
+		<key>question</key>
+		<string>mail</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v&amp;n 吸烟,烟</string>
+		<key>question</key>
+		<string>smoke</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 雾</string>
+		<key>question</key>
+		<string>fog</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 烟雾</string>
+		<key>question</key>
+		<string>smog</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 跳舞</string>
+		<key>question</key>
+		<string>dance</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 起居室</string>
+		<key>question</key>
+		<string>living room</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 餐厅</string>
+		<key>question</key>
+		<string>dining room</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

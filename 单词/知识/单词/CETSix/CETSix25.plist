@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>n.正常化，标准化</string>
+		<key>question</key>
+		<string>normalization </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>ad.向北方a.向北的</string>
+		<key>question</key>
+		<string>northward(s)</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.突出部分(如船头等)</string>
+		<key>question</key>
+		<string>nose</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.值得注意的；著名的</string>
+		<key>question</key>
+		<string>notable </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>a.著名的，知名的</string>
+		<key>question</key>
+		<string>noted </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>vt.通知，告知；报告</string>
+		<key>question</key>
+		<string>notify</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.概念，意念；看法</string>
+		<key>question</key>
+		<string>notion</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>a.臭名昭著的</string>
+		<key>question</key>
+		<string>notorious </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep.尽管，虽然</string>
+		<key>question</key>
+		<string>notwithstanding </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.无，零</string>
+		<key>question</key>
+		<string>nought</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>vt.提供养分，养育</string>
+		<key>question</key>
+		<string>nourish </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.食物；营养(情况)</string>
+		<key>question</key>
+		<string>nourishment </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>a.新的，异常的</string>
+		<key>question</key>
+		<string>novel </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.新颖；新奇的事物</string>
+		<key>question</key>
+		<string>novelty </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.原子核；细胞核</string>
+		<key>question</key>
+		<string>nucleus </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>vt.共计，达…之数</string>
+		<key>question</key>
+		<string>number</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>a.数字的，数值的</string>
+		<key>question</key>
+		<string>numerical </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.修女，尼姑</string>
+		<key>question</key>
+		<string>nun </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.苗圃，养鱼池</string>
+		<key>question</key>
+		<string>nursery </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.螺帽，螺母</string>
+		<key>question</key>
+		<string>nut </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.桨；划手vi.划(行)</string>
+		<key>question</key>
+		<string>oar </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.誓言，誓约，宣誓</string>
+		<key>question</key>
+		<string>oath</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.服从，顺从；管辖</string>
+		<key>question</key>
+		<string>obedience </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.服从的，顺从的</string>
+		<key>question</key>
+		<string>obedient</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.宾格a.目标的</string>
+		<key>question</key>
+		<string>objective </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.义务，职责，责任</string>
+		<key>question</key>
+		<string>obligation</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>vt.使感激；施恩惠于</string>
+		<key>question</key>
+		<string>oblige</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>a.阴暗的；蒙昧的</string>
+		<key>question</key>
+		<string>obscure </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.意见，短评，按语</string>
+		<key>question</key>
+		<string>observation </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>vi.说，评述，评论</string>
+		<key>question</key>
+		<string>observe </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>a.固执的；顽强的</string>
+		<key>question</key>
+		<string>obstinate </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.事故</string>
+		<key>question</key>
+		<string>occurrence</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.犯罪，犯规；冒犯</string>
+		<key>question</key>
+		<string>offence </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>a.冒犯的；进攻的</string>
+		<key>question</key>
+		<string>offensive </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>vt.呈现出vi.出现</string>
+		<key>question</key>
+		<string>offer </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.分支，抵销vt.抵销</string>
+		<key>question</key>
+		<string>offset</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.儿女，子孙，后代</string>
+		<key>question</key>
+		<string>offspring </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.欧姆</string>
+		<key>question</key>
+		<string>ohm </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.橄榄，橄榄树</string>
+		<key>question</key>
+		<string>olive </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>a.向前(的)，在前面</string>
+		<key>question</key>
+		<string>onward(s) </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>a.不透明的；不传导的</string>
+		<key>question</key>
+		<string>opaque</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.运算</string>
+		<key>question</key>
+		<string>operation </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.鸦片；麻醉剂</string>
+		<key>question</key>
+		<string>opium </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>a.光的；光学的</string>
+		<key>question</key>
+		<string>optical </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.乐观，乐观主义</string>
+		<key>question</key>
+		<string>optimism</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.最适条件，最适度</string>
+		<key>question</key>
+		<string>optimum </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.选择，取舍</string>
+		<key>question</key>
+		<string>option</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.果园</string>
+		<key>question</key>
+		<string>orchard </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n.管弦乐队的全部乐器</string>
+		<key>question</key>
+		<string>orchestra </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>ad.通常，大概</string>
+		<key>question</key>
+		<string>ordinarily</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

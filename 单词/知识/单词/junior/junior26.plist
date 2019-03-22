@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; adj意大利人(的),意大利语(的)</string>
+		<key>question</key>
+		<string>Italian</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (意大利)烤馅饼</string>
+		<key>question</key>
+		<string>pizza</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n &amp; adj 印度人(的),印第安人(的)</string>
+		<key>question</key>
+		<string>Indian</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 各种各样的</string>
+		<key>question</key>
+		<string>kinds of </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 工作场所</string>
+		<key>question</key>
+		<string>workplace</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 好像,似乎</string>
+		<key>question</key>
+		<string>seem</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 甚至,更</string>
+		<key>question</key>
+		<string>even</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 意大利</string>
+		<key>question</key>
+		<string>Italy</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 巧克力,巧克力糖</string>
+		<key>question</key>
+		<string>chocolate</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 冰</string>
+		<key>question</key>
+		<string>ice</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 使...(发生)</string>
+		<key>question</key>
+		<string>make</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v (大)笑,发笑</string>
+		<key>question</key>
+		<string>laugh</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp; pron 两个(人....)都</string>
+		<key>question</key>
+		<string>both</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv (用于否定句中)也(不)</string>
+		<key>question</key>
+		<string>either</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>conj 或者...或者... </string>
+		<key>question</key>
+		<string>either...or...</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 任何事(物)</string>
+		<key>question</key>
+		<string>anything</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj &amp; pron (两者)都不</string>
+		<key>question</key>
+		<string>neither</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>conj 也不</string>
+		<key>question</key>
+		<string>nor</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>conj 既不...也不... </string>
+		<key>question</key>
+		<string>neither...nor..</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 少量(的),一点</string>
+		<key>question</key>
+		<string>a bit (of) </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 无,没有,不</string>
+		<key>question</key>
+		<string>without</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 坐下,就坐 </string>
+		<key>question</key>
+		<string>take a seat</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj&amp;n可拿走的(熟食)</string>
+		<key>question</key>
+		<string>take-away</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 服务员</string>
+		<key>question</key>
+		<string>waiter</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 女士,夫人,小姐</string>
+		<key>question</key>
+		<string>madam</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (餐厅等的)菜单</string>
+		<key>question</key>
+		<string>menu</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n&amp;v 订购,点菜 订购单,定购,一份菜</string>
+		<key>question</key>
+		<string>order</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 帐单,清单,纸币</string>
+		<key>question</key>
+		<string>bill</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 因...而有名的</string>
+		<key>question</key>
+		<string>be famous for </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 和蔼的,友好的</string>
+		<key>question</key>
+		<string>kind</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 女士,夫人</string>
+		<key>question</key>
+		<string>lady</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (妇女)公共厕所</string>
+		<key>question</key>
+		<string>ladies' room</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 说,告述,吩咐</string>
+		<key>question</key>
+		<string>tell</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 图书馆</string>
+		<key>question</key>
+		<string>library</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 十字形(物),十字记号 v穿过,越过</string>
+		<key>question</key>
+		<string>cross</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 十字路口,交叉点</string>
+		<key>question</key>
+		<string>crossing</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 穿过,横过</string>
+		<key>question</key>
+		<string>across</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 错过</string>
+		<key>question</key>
+		<string>miss</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 教堂,教会</string>
+		<key>question</key>
+		<string>church</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 小餐馆,咖啡厅</string>
+		<key>question</key>
+		<string>cafe</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 录像</string>
+		<key>question</key>
+		<string>video</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 到达,抵达,达到</string>
+		<key>question</key>
+		<string>reach</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 角落,(街道)拐角</string>
+		<key>question</key>
+		<string>corner</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 在..的途中</string>
+		<key>question</key>
+		<string>on one's way to </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 患病的</string>
+		<key>question</key>
+		<string>sick</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 衣袋</string>
+		<key>question</key>
+		<string>pocket</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 仍旧,更</string>
+		<key>question</key>
+		<string>still</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj 弱的,差的</string>
+		<key>question</key>
+		<string>weak</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>phr. 等候</string>
+		<key>question</key>
+		<string>wait for </string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 割,砍,切</string>
+		<key>question</key>
+		<string>cut</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

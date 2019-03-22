@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appID</key>
+	<string>1358203699</string>
+	<key>downUrl</key>
+	<string>https://itunes.apple.com/cn/app/id1358203699?l=zh&amp;ls=1&amp;mt=8</string>
+	<key>wxAppId</key>
+	<string>wx4dc7b43782d07c58</string>
+	<key>wxSecret</key>
+	<string>21b433fd8755c15c2671a89d10581d53</string>
+	<key>qqAppKey</key>
+	<string>1106695903</string>
+	<key>qqSecret</key>
+	<string>jbyvONpmGRPmok4g</string>
+	<key>sinaAppKey</key>
+	<string>294583088</string>
+	<key>sinaSecret</key>
+	<string>834dbeacdac788289182ee9ddb77c569</string>
+	<key>umAppKey</key>
+	<string>5aa62f60b27b0a2cdc0001f9</string>
+</dict>
+</plist>

@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>pron 什么</string>
+		<key>question</key>
+		<string>what</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 是</string>
+		<key>question</key>
+		<string>is</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>what is 的缩写形式</string>
+		<key>question</key>
+		<string>what's</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 你的,你们的</string>
+		<key>question</key>
+		<string>your</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 名字</string>
+		<key>question</key>
+		<string>name</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 我的</string>
+		<key>question</key>
+		<string>my</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 我</string>
+		<key>question</key>
+		<string>I</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 是</string>
+		<key>question</key>
+		<string>am</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>I am 的缩写形式</string>
+		<key>question</key>
+		<string>I'm</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 在...里(内,上)</string>
+		<key>question</key>
+		<string>in</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (一)排,(一)行</string>
+		<key>question</key>
+		<string>row</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num 一</string>
+		<key>question</key>
+		<string>one</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 数字,号码</string>
+		<key>question</key>
+		<string>number</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num 二</string>
+		<key>question</key>
+		<string>two</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 也</string>
+		<key>question</key>
+		<string>too</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num 三</string>
+		<key>question</key>
+		<string>three</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 是</string>
+		<key>question</key>
+		<string>are</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 你,你们</string>
+		<key>question</key>
+		<string>you</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 是</string>
+		<key>question</key>
+		<string>yes</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num 四</string>
+		<key>question</key>
+		<string>four</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num 五</string>
+		<key>question</key>
+		<string>five</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv &amp; adj 不,不是</string>
+		<key>question</key>
+		<string>no</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv 不</string>
+		<key>question</key>
+		<string>not</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>int 喂(问候或唤起注意)</string>
+		<key>question</key>
+		<string>hi</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n (学校里的)班级,年级</string>
+		<key>question</key>
+		<string>class</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 年级</string>
+		<key>question</key>
+		<string>grade</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num 六</string>
+		<key>question</key>
+		<string>six</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num 七</string>
+		<key>question</key>
+		<string>seven</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num 八</string>
+		<key>question</key>
+		<string>eight</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num 九</string>
+		<key>question</key>
+		<string>nine</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num 十</string>
+		<key>question</key>
+		<string>ten</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num &amp;n 零</string>
+		<key>question</key>
+		<string>zero</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep 加,加上</string>
+		<key>question</key>
+		<string>plus</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 它</string>
+		<key>question</key>
+		<string>it</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>it is 的缩写形式</string>
+		<key>question</key>
+		<string>It's</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adv (指程度)多少,怎样</string>
+		<key>question</key>
+		<string>how</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>adj ...岁的,老的</string>
+		<key>question</key>
+		<string>old</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num 十一</string>
+		<key>question</key>
+		<string>eleven</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num 十二</string>
+		<key>question</key>
+		<string>twelve</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>prep减,减去 </string>
+		<key>question</key>
+		<string>minus</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num 十三</string>
+		<key>question</key>
+		<string>thirteen</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num 十四</string>
+		<key>question</key>
+		<string>fourteen</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>num 十五</string>
+		<key>question</key>
+		<string>fifteen</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>int喂(问候或唤起注意) </string>
+		<key>question</key>
+		<string>hello</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>int 请</string>
+		<key>question</key>
+		<string>please</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v.aux 能,可以,会</string>
+		<key>question</key>
+		<string>can</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>v 拼写</string>
+		<key>question</key>
+		<string>spell</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 那,那个</string>
+		<key>question</key>
+		<string>that</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>n 秘密</string>
+		<key>question</key>
+		<string>secret</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>pron 这,这个</string>
+		<key>question</key>
+		<string>this</string>
+		<key>status</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>
