@@ -5,6 +5,8 @@ This project had been upload on other website before, this is the first time it 
 
 Happy to share my project with you guys and welcome to contact with me.
 
+
+![image](https://github.com/JohnayXiao/EnglishWords/blob/master/words.gif)
 ![image](https://github.com/JohnayXiao/EnglishWords/blob/master/581.png)
 ![image](https://github.com/JohnayXiao/EnglishWords/blob/master/582.png)
 ![image](https://github.com/JohnayXiao/EnglishWords/blob/master/583.png)
